@@ -1,0 +1,524 @@
+[
+ {
+    "Quote":
+      "Literature is the art of discovering something extraordinary about ordinary people, and saying with ordinary words something extraordinary.",
+    "Author": "Boris Pasternak",
+    "Tags": ["Words", "Literature", "Ordinary"],
+    "Popularity": 0.016666016666016668,
+    "Category": "arts"
+  },
+ {
+    "Quote": "Politics is the art of controlling your environment.",
+    "Author": "Hunter S. Thompson",
+    "Tags": ["Politics"],
+    "Popularity": 0.016633016633016633,
+    "Category": "arts"
+  },
+ {
+    "Quote":
+      "Advertising is the art of convincing people to spend money they don't have for something they don't need.",
+    "Author": "Will Rogers",
+    "Tags": ["Money", "Spend", "Convincing"],
+    "Popularity": 0.0166000166000166,
+    "Category": "arts"
+  },
+
+  {
+    "Quote":
+      "Just as pure abstract art is not dogmatic, neither is it decorative.",
+    "Author": "Piet Mondrian",
+    "Tags": ["Abstract", "Pure", "Decorative"],
+    "Popularity": 0.016566016566016566,
+    "Category": "arts"
+  },
+
+ {
+    "Quote":
+      "Don't only practice your art, but force your way into its secrets; art deserves that, for it and knowledge can raise man to the Divine.",
+    "Author": "Ludwig van Beethoven",
+    "Tags": ["Knowledge", "Practice", "Secrets"],
+    "Popularity": 0.01653301653301653,
+    "Category": "arts"
+  },
+ {
+    "Quote": "Architecture is the art of how to waste space.",
+    "Author": "Philip Johnson",
+    "Tags": ["Architecture", "Space", "Waste"],
+    "Popularity": 0.0165000165000165,
+    "Category": "arts"
+  },
+ {
+    "Quote":
+      "People discuss my art and pretend to understand as if it were necessary to understand, when it's simply necessary to love.",
+    "Author": "Claude Monet",
+    "Tags": ["Love", "Understand", "Discuss"],
+    "Popularity": 0.016467016467016468,
+    "Category": "arts"
+  },
+ {
+    "Quote": "Space is the breath of art.",
+    "Author": "Frank Lloyd Wright",
+    "Tags": ["Design", "Space", "Breath"],
+    "Popularity": 0.016434016434016433,
+    "Category": "arts"
+  },
+ {
+    "Quote":
+      "Science fiction is any idea that occurs in the head and doesn't exist yet, but soon will, and will change everything for everybody, and nothing will ever be the same again. As soon as you have an idea that changes some small part of the world you are writing science fiction. It is always the art of the possible, never the impossible.",
+    "Author": "Ray Bradbury",
+    "Tags": ["Change", "Science", "Small"],
+    "Popularity": 0.0164010164010164,
+    "Category": "arts"
+  },
+ {
+    "Quote":
+      "There is nothing in the world of art like the songs mother used to sing.",
+    "Author": "Billy Sunday",
+    "Tags": ["Mother's Day", "Mother", "Sing"],
+    "Popularity": 0.016368016368016367,
+    "Category": "arts"
+  },
+ {
+    "Quote":
+      "Every bit of me is devoted to love and art. And I aspire to try to be a teacher to my young fans who feel just like I felt when I was younger. I just felt like a freak. I guess what I'm trying to say is I'm trying to liberate them, I want to free them of their fears and make them feel that they can make their own space in the world.",
+    "Author": "Lady Gaga",
+    "Tags": ["Teacher", "Love", "Space"],
+    "Popularity": 0.016335016335016335,
+    "Category": "arts"
+  },
+ {
+    "Quote":
+      "The most beautiful thing we can experience is the mysterious. It is the source of all true art and science.",
+    "Author": "Albert Einstein",
+    "Tags": ["Experience", "Science"],
+    "Popularity": 0.016302016302016303,
+    "Category": "arts"
+  },
+ {
+    "Quote":
+      "I consider skateboarding an art form, a lifestyle and a sport. 'Action sport' would be the least offensive categorization.",
+    "Author": "Tony Hawk",
+    "Tags": ["Sports", "Action", "Lifestyle"],
+    "Popularity": 0.01626901626901627,
+    "Category": "arts"
+  },
+ {
+    "Quote": "Tact is the art of making a point without making an enemy.",
+    "Author": "Isaac Newton",
+    "Tags": ["Tact", "Enemy", "Point"],
+    "Popularity": 0.016236016236016237,
+    "Category": "arts"
+  },
+ {
+    "Quote": "Where thou art, that is home.",
+    "Author": "Emily Dickinson",
+    "Tags": ["Home", "Thou"],
+    "Popularity": 0.0162030162030162,
+    "Category": "arts"
+  },
+{
+    "Quote":
+      "Filmmaking, like any other art, is a very profound means of human communication; beyond the professional pleasure of succeeding or the pain of failing, you do want your film to be seen, to communicate itself to other people.",
+    "Author": "Kenneth Lonergan",
+    "Tags": ["Pain", "Filmmaking", "Failing"],
+    "Popularity": 0.01617001617001617,
+    "Category": "arts"
+  },
+ {
+    "Quote": "The art of simplicity is a puzzle of complexity.",
+    "Author": "Douglas Horton",
+    "Tags": ["Simplicity", "Puzzle"],
+    "Popularity": 0.01613701613701614,
+    "Category": "arts"
+  },
+ {
+    "Quote": "In art, the obvious is a sin.",
+    "Author": "Edward Dmytryk",
+    "Tags": ["Sin", "Obvious"],
+    "Popularity": 0.016104016104016104,
+    "Category": "arts"
+  },
+ {
+    "Quote":
+      "The art of healing comes from nature, not from the physician. Therefore the physician must start from nature, with an open mind.",
+    "Author": "Paracelsus",
+    "Tags": ["Health", "Nature", "Healing"],
+    "Popularity": 0.01607201607201607,
+    "Category": "arts"
+  },
+  {
+    "Quote": "Minimal art went nowhere.",
+    "Author": "Sol LeWitt",
+    "Tags": ["Nowhere", "Minimal"],
+    "Popularity": 0.01603901603901604,
+    "Category": "arts"
+  },
+ {
+    "Quote":
+      "Perhaps it's good for one to suffer. Can an artist do anything if he's happy? Would he ever want to do anything? What is art, after all, but a protest against the horrible inclemency of life?",
+    "Author": "Aldous Huxley",
+    "Tags": ["Life", "Good", "Happy"],
+    "Popularity": 0.016006016006016005,
+    "Category": "arts"
+  },
+ {
+    "Quote":
+      "I think you can do anything with comics that you could do in just about any art form.",
+    "Author": "Harvey Pekar",
+    "Tags": ["Comics", "Form"],
+    "Popularity": 0.015974015974015973,
+    "Category": "arts"
+  },
+  {
+    "Quote":
+      "When the bright angel dominates, out comes a great work of art, a Michelangelo David or a Beethoven symphony.",
+    "Author": "Madeleine L'Engle",
+    "Tags": ["Work", "Great", "Angel"],
+    "Popularity": 0.01594101594101594,
+    "Category": "arts"
+  },
+  {
+    "Quote": "All art constantly aspires towards the condition of music.",
+    "Author": "Walter Pater",
+    "Tags": ["Music", "Condition", "Constantly"],
+    "Popularity": 0.015908015908015907,
+    "Category": "arts"
+  },
+ {
+    "Quote": "I am my own experiment. I am my own work of art.",
+    "Author": "Madonna Ciccone",
+    "Tags": ["Work", "Experiment"],
+    "Popularity": 0.015876015876015875,
+    "Category": "arts"
+  },
+  {
+    "Quote":
+      "I am a real person that cares about his art and cares about what he's doing - I have a heart and a soul and want to touch people and give.",
+    "Author": "LL Cool J",
+    "Tags": ["Heart", "Soul", "Touch"],
+    "Popularity": 0.015843015843015843,
+    "Category": "arts"
+  },
+ {
+    "Quote": "Even a true artist does not always produce art.",
+    "Author": "Carroll O'Connor",
+    "Tags": ["Artist", "True", "Produce"],
+    "Popularity": 0.01581101581101581,
+    "Category": "arts"
+  },
+ {
+    "Quote": "Every artist writes his own autobiography.",
+    "Author": "Havelock Ellis",
+    "Tags": ["Artist", "Writes"],
+    "Popularity": 0.01577801577801578,
+    "Category": "arts"
+  },
+ {
+    "Quote":
+      "When I am finishing a picture, I hold some God-made object up to it - a rock, a flower, the branch of a tree or my hand - as a final test. If the painting stands up beside a thing man cannot make, the painting is authentic. If there's a clash between the two, it's bad art.",
+    "Author": "Marc Chagall",
+    "Tags": ["Flower", "Tree", "Painting"],
+    "Popularity": 0.015746015746015744,
+    "Category": "arts"
+  },
+ {
+    "Quote":
+      "Draw your pleasure, paint your pleasure, and express your pleasure strongly.",
+    "Author": "Pierre Bonnard",
+    "Tags": ["Paint", "Pleasure", "Express"],
+    "Popularity": 0.015714015714015712,
+    "Category": "arts"
+  },
+ {
+    "Quote": "A great artist can paint a great picture on a small canvas.",
+    "Author": "Charles Dudley Warner",
+    "Tags": ["Great", "Small", "Artist"],
+    "Popularity": 0.01568101568101568,
+    "Category": "arts"
+  },
+ {
+    "Quote":
+      "That's the motivation of an artist - to seek attention of some kind.",
+    "Author": "James Taylor",
+    "Tags": ["Motivation", "Artist"],
+    "Popularity": 0.01564901564901565,
+    "Category": "arts"
+  },
+ {
+    "Quote":
+      "Every other artist begins with a blank canvas, a piece of paper the photographer begins with the finished product.",
+    "Author": "Edward Steichen",
+    "Tags": ["Artist", "Product", "Canvas"],
+    "Popularity": 0.015617015617015617,
+    "Category": "arts"
+  },
+ {
+    "Quote":
+      "My attitude towards drawing is not necessarily about drawing. It's about making the best kind of image I can make, it's about talking as clearly as I can.",
+    "Author": "Jim Dine",
+    "Tags": ["Best", "Attitude", "Drawing"],
+    "Popularity": 0.015584015584015584,
+    "Category": "arts"
+  },
+ {
+    "Quote": "Where the spirit does not work with the hand, there is no art.",
+    "Author": "Leonardo da Vinci",
+    "Tags": ["Work", "Hand", "Spirit"],
+    "Popularity": 0.015552015552015552,
+    "Category": "arts"
+  },
+ {
+    "Quote": "Art is the only way to run away without leaving home.",
+    "Author": "Twyla Tharp",
+    "Tags": ["Home", "Leaving", "Run"],
+    "Popularity": 0.01552001552001552,
+    "Category": "arts"
+  },
+ {
+    "Quote":
+      "Every artist dips his brush in his own soul, and paints his own nature into his pictures.",
+    "Author": "Henry Ward Beecher",
+    "Tags": ["Nature", "Artist", "Soul"],
+    "Popularity": 0.015488015488015488,
+    "Category": "arts"
+  },
+  {
+    "Quote": "A picture is a poem without words.",
+    "Author": "Horace",
+    "Tags": ["Picture", "Words", "Poem"],
+    "Popularity": 0.015456015456015456,
+    "Category": "arts"
+  },
+ {
+    "Quote":
+      "I have no fear of making changes, destroying the image, etc., because the painting has a life of its own.",
+    "Author": "Jackson Pollock",
+    "Tags": ["Life", "Fear", "Painting"],
+    "Popularity": 0.015424015424015424,
+    "Category": "arts"
+  },
+  {
+    "Quote":
+      "To me, photography is the simultaneous recognition, in a fraction of a second, of the significance of an event.",
+    "Author": "Henri Cartier-Bresson",
+    "Tags": ["Event", "Second", "Fraction"],
+    "Popularity": 0.015392015392015393,
+    "Category": "arts"
+  },
+ {
+    "Quote":
+      "Every picture shows a spot with which the artist has fallen in love.",
+    "Author": "Alfred Sisley",
+    "Tags": ["Love", "Artist", "Picture"],
+    "Popularity": 0.01536001536001536,
+    "Category": "arts"
+  },
+ {
+    "Quote":
+      "Good art is art that allows you to enter it from a variety of angles and to emerge with a variety of views.",
+    "Author": "Mary Schmich",
+    "Tags": ["Good", "Variety", "Angles"],
+    "Popularity": 0.015328015328015329,
+    "Category": "arts"
+  },
+ {
+    "Quote":
+      "All art is a struggle to be, in a particular sort of way, virtuous.",
+    "Author": "Iris Murdoch",
+    "Tags": ["Struggle", "Virtuous", "Sort"],
+    "Popularity": 0.015296015296015295,
+    "Category": "arts"
+  },
+ {
+    "Quote":
+      "The creative act lasts but a brief moment, a lightning instant of give-and-take, just long enough for you to level the camera and to trap the fleeting prey in your little box.",
+    "Author": "Henri Cartier-Bresson",
+    "Tags": ["Creative", "Moment", "Camera"],
+    "Popularity": 0.015264015264015263,
+    "Category": "arts"
+  },
+ {
+    "Quote": "The goal of art was the vital expression of self.",
+    "Author": "Alfred Stieglitz",
+    "Tags": ["Goal", "Self", "Expression"],
+    "Popularity": 0.015232015232015231,
+    "Category": "arts"
+  },
+ {
+    "Quote": "Photography is a major force in explaining man to man.",
+    "Author": "Edward Steichen",
+    "Tags": ["Force", "Explaining", "Major"],
+    "Popularity": 0.0152000152000152,
+    "Category": "arts"
+  },
+ {
+    "Quote": "An empty canvas is full.",
+    "Author": "Robert Rauschenberg",
+    "Tags": ["Canvas", "Empty", "Full"],
+    "Popularity": 0.015168015168015168,
+    "Category": "arts"
+  },
+  {
+    "Quote":
+      "I see myself and many artists like me as the torchbearers through these dark ages.",
+    "Author": "John Zorn",
+    "Tags": ["Dark", "Artists", "Ages"],
+    "Popularity": 0.015136015136015136,
+    "Category": "arts"
+  },
+ {
+    "Quote":
+      "The sculptor produces the beautiful statue by chipping away such parts of the marble block as are not needed - it is a process of elimination.",
+    "Author": "Elbert Hubbard",
+    "Tags": ["Beautiful", "Process", "Marble"],
+    "Popularity": 0.015105015105015105,
+    "Category": "arts"
+  },
+  {
+    "Quote": "One eye sees, the other feels.",
+    "Author": "Paul Klee",
+    "Tags": ["Eye", "Feels", "Sees"],
+    "Popularity": 0.015073015073015074,
+    "Category": "arts"
+  },
+ {
+    "Quote": "In art as in love, instinct is enough.",
+    "Author": "Anatole France",
+    "Tags": ["Love", "Instinct"],
+    "Popularity": 0.015041015041015042,
+    "Category": "arts"
+  },
+ {
+    "Quote": "A beautiful body perishes, but a work of art dies not.",
+    "Author": "Leonardo da Vinci",
+    "Tags": ["Work", "Beautiful", "Body"],
+    "Popularity": 0.01501001501001501,
+    "Category": "arts"
+  },
+ {
+    "Quote": "Art resides in the quality of doing, process is not magic.",
+    "Author": "Charles Eames",
+    "Tags": ["Quality", "Process", "Magic"],
+    "Popularity": 0.014978014978014978,
+    "Category": "arts"
+  },
+ {
+    "Quote":
+      "True art is characterized by an irresistible urge in the creative artist.",
+    "Author": "Albert Einstein",
+    "Tags": ["Creative", "Artist", "True"],
+    "Popularity": 0.014946014946014946,
+    "Category": "arts"
+  },
+{
+    "Quote":
+      "If you cannot learn to love real art, at least learn to hate sham art and reject it.",
+    "Author": "William Morris",
+    "Tags": ["Love", "Hate", "Learn"],
+    "Popularity": 0.014915014915014915,
+    "Category": "arts"
+  },
+  {
+    "Quote":
+      "All art is dependent on technology because it's a human endeavour, so even when you're using charcoal on a wall or designed the proscenium arch, that's technology.",
+    "Author": "George Lucas",
+    "Tags": ["Technology", "Wall", "Endeavour"],
+    "Popularity": 0.014883014883014883,
+    "Category": "arts"
+  },
+ {
+    "Quote": "I am enough of an artist to draw freely upon my imagination.",
+    "Author": "Albert Einstein",
+    "Tags": ["Artist", "Draw", "Freely"],
+    "Popularity": 0.014852014852014851,
+    "Category": "arts"
+  },
+ {
+    "Quote": "A room hung with pictures is a room hung with thoughts.",
+    "Author": "Joshua Reynolds",
+    "Tags": ["Thoughts", "Room", "Pictures"],
+    "Popularity": 0.01482001482001482,
+    "Category": "arts"
+  },
+ {
+    "Quote":
+      "A sculptor is a person who is interested in the shape of things, a poet in words, a musician by sounds.",
+    "Author": "Henry Moore",
+    "Tags": ["Words", "Interested", "Sculptor"],
+    "Popularity": 0.014789014789014789,
+    "Category": "arts"
+  },
+ {
+    "Quote":
+      "When I make art, I think about its ability to connect with others, to bring them into the process.",
+    "Author": "Jim Hodges",
+    "Tags": ["Process", "Ability", "Bring"],
+    "Popularity": 0.014758014758014758,
+    "Category": "arts"
+  },
+  {
+    "Quote": "I don't want life to imitate art. I want life to be art.",
+    "Author": "Ernst Fischer",
+    "Tags": ["Life", "Imitate"],
+    "Popularity": 0.014726014726014727,
+    "Category": "arts"
+  },
+ {
+    "Quote": "Artists don't make objects. Artists make mythologies.",
+    "Author": "Anish Kapoor",
+    "Tags": ["Artists", "Objects"],
+    "Popularity": 0.014695014695014694,
+    "Category": "arts"
+  },
+ {
+    "Quote": "All good art is an indiscretion.",
+    "Author": "Tennessee Williams",
+    "Tags": ["Good"],
+    "Popularity": 0.014664014664014664,
+    "Category": "arts"
+  },
+ {
+    "Quote":
+      "Art is the unceasing effort to compete with the beauty of flowers - and never succeeding.",
+    "Author": "Gian Carlo Menotti",
+    "Tags": ["Beauty", "Flowers", "Effort"],
+    "Popularity": 0.014632014632014632,
+    "Category": "arts"
+  },
+ {
+    "Quote": "We have art in order not to die of the truth.",
+    "Author": "Friedrich Nietzsche",
+    "Tags": ["Truth", "Order", "Die"],
+    "Popularity": 0.014601014601014602,
+    "Category": "arts"
+  },
+ {
+    "Quote": "When I work, and in my art, I hold hands with God.",
+    "Author": "Robert Mapplethorpe",
+    "Tags": ["Work", "God", "Hands"],
+    "Popularity": 0.01457001457001457,
+    "Category": "arts"
+  },
+ {
+    "Quote": "The basis of art is truth, both in matter and in mode.",
+    "Author": "Flannery O'Connor",
+    "Tags": ["Truth", "Matter", "Basis"],
+    "Popularity": 0.014539014539014539,
+    "Category": "arts"
+  },
+ {
+    "Quote":
+      "I don't think there's any artist of any value who doesn't doubt what they're doing.",
+    "Author": "Francis Ford Coppola",
+    "Tags": ["Doubt", "Value", "Artist"],
+    "Popularity": 0.014508014508014509,
+    "Category": "arts"
+  },
+{
+    "Quote": "The mediator of the inexpressible is the work of art.",
+    "Author": "Johann Wolfgang von Goethe",
+    "Tags": ["Work", "Mediator"],
+    "Popularity": 0.014477014477014476,
+    "Category": "arts"
+  }
+]

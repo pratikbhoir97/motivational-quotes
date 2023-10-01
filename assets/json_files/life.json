@@ -1,0 +1,1152 @@
+[
+ {
+    "Quote": "Don't cry because it's over, smile because it happened.",
+    "Author": "Dr. Seuss",
+    "Tags": [
+      "attributed-no-source",
+      "cry",
+      "crying",
+      "experience",
+      "happiness",
+      "joy",
+      "life",
+      "misattributed-dr-seuss",
+      "optimism",
+      "sadness",
+      "smile",
+      "smiling "
+    ],
+    "Popularity": 0.15566615566615566,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.",
+    "Author": "Marilyn Monroe",
+    "Tags": [
+      "attributed-no-source",
+      "best",
+      "life",
+      "love",
+      "mistakes",
+      "out-of-control",
+      "truth",
+      "worst "
+    ],
+    "Popularity": 0.12912212912212911,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "You've gotta dance like there's nobody watching,Love like you'll never be hurt,Sing like there's nobody listening,And live like it's heaven on earth.",
+    "Author": "William W. Purkey",
+    "Tags": [
+      "dance",
+      "heaven",
+      "hurt",
+      "inspirational",
+      "life",
+      "love",
+      "sing "
+    ],
+    "Popularity": 0.10005610005610005,
+    "Category": "life"
+  },
+ {
+    "Quote": "You only live once, but if you do it right, once is enough.",
+    "Author": "Mae West",
+    "Tags": ["humor", "life "],
+    "Popularity": 0.08772108772108772,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "In three words I can sum up everything I've learned about life: it goes on.",
+    "Author": "Robert Frost",
+    "Tags": ["life "],
+    "Popularity": 0.08117608117608117,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "To live is the rarest thing in the world. Most people exist, that is all.",
+    "Author": "Oscar Wilde",
+    "Tags": ["life "],
+    "Popularity": 0.058033058033058034,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Insanity is doing the same thing, over and over again, but expecting different results.",
+    "Author": "Narcotics Anonymous",
+    "Tags": [
+      "humor",
+      "insanity",
+      "life",
+      "misattributed-ben-franklin",
+      "misattributed-mark-twain",
+      "misattributed-to-einstein "
+    ],
+    "Popularity": 0.054046054046054046,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "It is better to be hated for what you are than to be loved for what you are not.",
+    "Author": "André Gide,  Autumn Leaves",
+    "Tags": ["life", "love "],
+    "Popularity": 0.04762504762504763,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.",
+    "Author": "Albert Einstein",
+    "Tags": [
+      "attributed-no-source",
+      "inspirational",
+      "life",
+      "live",
+      "miracle",
+      "miracles "
+    ],
+    "Popularity": 0.040579040579040576,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Life is what happens to you while you're busy making other plans.",
+    "Author": "Allen Saunders",
+    "Tags": [
+      "fate",
+      "life",
+      "misattributed-john-lennon",
+      "planning",
+      "plans "
+    ],
+    "Popularity": 0.03891403891403891,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Good friends, good books, and a sleepy conscience: this is the ideal life.",
+    "Author": "Mark Twain",
+    "Tags": ["books", "contentment", "friends", "friendship", "life "],
+    "Popularity": 0.038455038455038455,
+    "Category": "life"
+  },
+  {
+    "Quote": "It does not do to dwell on dreams and forget to live.",
+    "Author": "J.K. Rowling,  Harry Potter and the Sorcerer's Stone",
+    "Tags": ["dreams", "life "],
+    "Popularity": 0.03810703810703811,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "I may not have gone where I intended to go, but I think I have ended up where I needed to be.",
+    "Author": "Douglas Adams,  The Long Dark Tea-Time of the Soul",
+    "Tags": ["life", "navigation "],
+    "Popularity": 0.03283903283903284,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Sometimes the questions are complicated and the answers are simple.",
+    "Author": "Dr. Seuss",
+    "Tags": ["attributed-no-source", "life "],
+    "Popularity": 0.02498002498002498,
+    "Category": "life"
+  },
+ {
+    "Quote": "Everything you can imagine is real.",
+    "Author": "Pablo Picasso",
+    "Tags": ["art", "imagination", "inspirational", "life "],
+    "Popularity": 0.023496023496023494,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Today you are You, that is truer than true. There is no one alive who is Youer than You.",
+    "Author": "Dr. Seuss,  Happy Birthday to You!",
+    "Tags": ["comedy", "life", "yourself "],
+    "Popularity": 0.02332002332002332,
+    "Category": "life"
+  },
+  {
+    "Quote":
+      "I'm not afraid of death; I just don't want to be there when it happens.",
+    "Author": "Woody Allen",
+    "Tags": ["death", "fear", "humor", "life "],
+    "Popularity": 0.022418022418022418,
+    "Category": "life"
+  },
+  {
+    "Quote":
+      "Sometimes people are beautiful.Not in looks.Not in what they say.Just in what they are.",
+    "Author": "Markus Zusak,  I Am the Messenger",
+    "Tags": ["beauty", "life "],
+    "Popularity": 0.020555020555020554,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Life isn't about finding yourself. Life is about creating yourself.",
+    "Author": "George Bernard Shaw",
+    "Tags": ["inspirational", "life", "yourself "],
+    "Popularity": 0.0194980194980195,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+    "Author": "Albert Einstein",
+    "Tags": ["life", "simile "],
+    "Popularity": 0.01883101883101883,
+    "Category": "life"
+  },
+ {
+    "Quote": "Some infinities are bigger than other infinities.",
+    "Author": "John Green,  The Fault in Our Stars",
+    "Tags": [
+      "infinity",
+      "john-green",
+      "life",
+      "tfios",
+      "the-fault-in-our-stars "
+    ],
+    "Popularity": 0.01882101882101882,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Who are you to judge the life I live?I know I'm not perfect-and I don't live to be-but before you start pointing fingers...make sure you hands are clean!",
+    "Author": "Bob Marley",
+    "Tags": ["judge", "life", "live", "perfection "],
+    "Popularity": 0.018584018584018584,
+    "Category": "life"
+  },
+ {
+    "Quote": "Reality continues to ruin my life.",
+    "Author": "Bill Watterson,  The Complete Calvin and Hobbes",
+    "Tags": ["calvin-and-hobbes", "humor", "life "],
+    "Popularity": 0.01781901781901782,
+    "Category": "life"
+  },
+  {
+    "Quote": "Things change. And friends leave. Life doesn't stop for anybody.",
+    "Author": "Stephen Chbosky,  The Perks of Being a Wallflower",
+    "Tags": ["change", "life "],
+    "Popularity": 0.01724001724001724,
+    "Category": "life"
+  },
+ {
+    "Quote": "The only way out of the labyrinth of suffering is to forgive.",
+    "Author": "John Green,  Looking for Alaska",
+    "Tags": ["compassion", "life", "suffering "],
+    "Popularity": 0.017086017086017084,
+    "Category": "life"
+  },
+ {
+    "Quote": "Unrest of spirit is a mark of life.",
+    "Author": "Karl A. Menninger",
+    "Tags": ["Spirit", "Mark", "Unrest"],
+    "Popularity": 0.016666016666016668,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Ships that pass in the night, and speak each other in passing, only a signal shown, and a distant voice in the darkness; So on the ocean of life, we pass and speak one another, only a look and a voice, then darkness again and a silence.",
+    "Author": "Henry Wadsworth Longfellow",
+    "Tags": ["Passing", "Silence", "Ocean"],
+    "Popularity": 0.016633016633016633,
+    "Category": "life"
+  },
+ {
+    "Quote": "Life is a gift, given in trust - like a child.",
+    "Author": "Anne Morrow Lindbergh",
+    "Tags": ["Trust", "Child", "Gift"],
+    "Popularity": 0.0166000166000166,
+    "Category": "life"
+  },
+ {
+    "Quote": "Where there is love there is life.",
+    "Author": "Mahatma Gandhi",
+    "Tags": ["Life"],
+    "Popularity": 0.0166000166000166,
+    "Category": "life"
+  },
+ {
+    "Quote": "Life is wasted on the living.",
+    "Author": "Douglas Adams",
+    "Tags": ["Living", "Wasted"],
+    "Popularity": 0.016566016566016566,
+    "Category": "life"
+  },
+  {
+    "Quote": "Life in abundance comes only through great love.",
+    "Author": "Elbert Hubbard",
+    "Tags": ["Love", "Great", "Abundance"],
+    "Popularity": 0.01653301653301653,
+    "Category": "life"
+  },
+  {
+    "Quote": "Life is the flower for which love is the honey.",
+    "Author": "Victor Hugo",
+    "Tags": ["Life", "Flower", "Honey"],
+    "Popularity": 0.01653301653301653,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Life is a culmination of the past, an awareness of the present, an indication of a future beyond knowledge, the quality that gives a touch of divinity to matter.",
+    "Author": "Charles Lindbergh",
+    "Tags": ["Knowledge", "Future", "Quality"],
+    "Popularity": 0.0165000165000165,
+    "Category": "life"
+  },
+  {
+    "Quote": "To live is so startling it leaves little time for anything else.",
+    "Author": "Emily Dickinson",
+    "Tags": ["Time", "Leaves", "Startling"],
+    "Popularity": 0.016467016467016468,
+    "Category": "life"
+  },
+ {
+    "Quote": "Seventy percent of success in life is showing up.",
+    "Author": "Woody Allen",
+    "Tags": ["Success", "Percent", "Seventy"],
+    "Popularity": 0.016434016434016433,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "When someone loves you, the way they talk about you is different. You feel safe and comfortable.",
+    "Author": "Jess C. Scott,  The Intern",
+    "Tags": [
+      "desire",
+      "emotion",
+      "friendship",
+      "honesty",
+      "imagination",
+      "individuality",
+      "life",
+      "love",
+      "passion",
+      "reality",
+      "relationships",
+      "romance",
+      "truth",
+      "wisdom",
+      "wise-words "
+    ],
+    "Popularity": 0.016423016423016423,
+    "Category": "life"
+  },
+ {
+    "Quote": "Easter is meant to be a symbol of hope, renewal, and new life.",
+    "Author": "Janine di Giovanni",
+    "Tags": ["Easter", "Life", "Renewal"],
+    "Popularity": 0.0164010164010164,
+    "Category": "life"
+  },
+  {
+    "Quote":
+      "To be able to look back upon one's past life with satisfaction is to live twice.",
+    "Author": "Lord Acton",
+    "Tags": ["Past", "Twice"],
+    "Popularity": 0.0164010164010164,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Outside of the cross of Jesus Christ, there is no hope in this world. That cross and resurrection at the core of the Gospel is the only hope for humanity. Wherever you go, ask God for wisdom on how to get that Gospel in, even in the toughest situations of life.",
+    "Author": "Ravi Zacharias",
+    "Tags": ["Easter", "Life", "Wisdom"],
+    "Popularity": 0.016368016368016367,
+    "Category": "life"
+  },
+  {
+    "Quote":
+      "Any life is made up of a single moment, the moment in which a man finds out, once and for all, who he is.",
+    "Author": "Jorge Luis Borges",
+    "Tags": ["Moment", "Single", "Finds"],
+    "Popularity": 0.016368016368016367,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Infuse your life with action. Don't wait for it to happen. Make it happen. Make your own future. Make your own hope. Make your own love. And whatever your beliefs, honor your creator, not by passively waiting for grace to come down from upon high, but by doing what you can to make grace happen... yourself, right now, right down here on Earth.",
+    "Author": "Bradley Whitford",
+    "Tags": ["Motivational", "Life", "Love"],
+    "Popularity": 0.016335016335016335,
+    "Category": "life"
+  },
+ {
+    "Quote": "Wrong life cannot be lived rightly.",
+    "Author": "Theodor Adorno",
+    "Tags": ["Wrong", "Lived", "Cannot"],
+    "Popularity": 0.016335016335016335,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "You have succeeded in life when all you really want is only what you really need.",
+    "Author": "Vernon Howard",
+    "Tags": ["Succeeded"],
+    "Popularity": 0.016302016302016303,
+    "Category": "life"
+  },
+  {
+    "Quote":
+      "The greatest trap in our life is not success, popularity or power, but self-rejection.",
+    "Author": "Henri Nouwen",
+    "Tags": ["Success", "Power"],
+    "Popularity": 0.01626901626901627,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "We love life, not because we are used to living but because we are used to loving.",
+    "Author": "Friedrich Nietzsche",
+    "Tags": ["Life", "Living", "Loving"],
+    "Popularity": 0.01626901626901627,
+    "Category": "life"
+  },
+ {
+    "Quote": "Character develops itself in the stream of life.",
+    "Author": "Johann Wolfgang von Goethe",
+    "Tags": ["Character", "Stream"],
+    "Popularity": 0.016236016236016237,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Life consists not in holding good cards but in playing those you hold well.",
+    "Author": "Josh Billings",
+    "Tags": ["Good", "Cards", "Hold"],
+    "Popularity": 0.0162030162030162,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "The greatest use of a life is to spend it on something that will outlast it.",
+    "Author": "William James",
+    "Tags": ["Greatest", "Spend", "Outlast"],
+    "Popularity": 0.01617001617001617,
+    "Category": "life"
+  },
+  {
+    "Quote": "Life is a succession of moments, to live each one is to succeed.",
+    "Author": "Corita Kent",
+    "Tags": ["Succeed", "Moments"],
+    "Popularity": 0.01613701613701614,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Fortunately analysis is not the only way to resolve inner conflicts. Life itself still remains a very effective therapist.",
+    "Author": "Karen Horney",
+    "Tags": ["Analysis", "Effective"],
+    "Popularity": 0.016104016104016104,
+    "Category": "life"
+  },
+  {
+    "Quote":
+      "Finish each day and be done with it. You have done what you could. Some blunders and absurdities no doubt crept in; forget them as soon as you can. Tomorrow is a new day. You shall begin it serenely and with too high a spirit to be encumbered with your old nonsense.",
+    "Author": "Ralph Waldo Emerson",
+    "Tags": ["life", "regrets "],
+    "Popularity": 0.01607301607301607,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "The chief danger in life is that you may take too many precautions.",
+    "Author": "Alfred Adler",
+    "Tags": ["Danger", "Chief"],
+    "Popularity": 0.01607201607201607,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "It takes half your life before you discover life is a do-it-yourself project.",
+    "Author": "Napoleon Hill",
+    "Tags": ["Project", "Discover", "Half"],
+    "Popularity": 0.01603901603901604,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.",
+    "Author": "Wayne Dyer",
+    "Tags": ["Change", "Happens", "Minds"],
+    "Popularity": 0.016006016006016005,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Perhaps it's good for one to suffer. Can an artist do anything if he's happy? Would he ever want to do anything? What is art, after all, but a protest against the horrible inclemency of life?",
+    "Author": "Aldous Huxley",
+    "Tags": ["Life", "Good", "Happy"],
+    "Popularity": 0.016006016006016005,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Life is never fair, and perhaps it is a good thing for most of us that it is not.",
+    "Author": "Oscar Wilde",
+    "Tags": ["Good", "Fair", "Perhaps"],
+    "Popularity": 0.015974015974015973,
+    "Category": "life"
+  },
+ {
+    "Quote": "Life must be lived as play.",
+    "Author": "Plato",
+    "Tags": ["Lived"],
+    "Popularity": 0.01594101594101594,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "If you want to achieve things in life, you've just got to do them, and if you're talented and smart, you'll succeed.",
+    "Author": "Juliana Hatfield",
+    "Tags": ["Life", "Smart", "Succeed"],
+    "Popularity": 0.015908015908015907,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Imagine all the people living life in peace. You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us, and the world will be as one.",
+    "Author": "John Lennon",
+    "Tags": ["Peace", "Life", "Dreamer"],
+    "Popularity": 0.015908015908015907,
+    "Category": "life"
+  },
+  {
+    "Quote": "We live in the world when we love it.",
+    "Author": "Rabindranath Tagore",
+    "Tags": ["Love"],
+    "Popularity": 0.015908015908015907,
+    "Category": "life"
+  },
+{
+    "Quote": "The man who has no inner-life is a slave to his surroundings.",
+    "Author": "Henri Frederic Amiel",
+    "Tags": ["Slave"],
+    "Popularity": 0.015876015876015875,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "It is often said that before you die your life passes before your eyes. It is in fact true. It's called living.",
+    "Author": "Terry Pratchett",
+    "Tags": ["Eyes", "Living", "True"],
+    "Popularity": 0.015843015843015843,
+    "Category": "life"
+  },
+  {
+    "Quote":
+      "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+    "Author": "Albert Einstein",
+    "Tags": ["Balance", "Moving", "Bicycle"],
+    "Popularity": 0.01581101581101581,
+    "Category": "life"
+  },
+{
+    "Quote":
+      "Smile in the mirror. Do that every morning and you'll start to see a big difference in your life.",
+    "Author": "Yoko Ono",
+    "Tags": ["Smile", "Morning", "Mirror"],
+    "Popularity": 0.01577801577801578,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "There is no end to education. It is not that you read a book, pass an examination, and finish with education. The whole of life, from the moment you are born to the moment you die, is a process of learning.",
+    "Author": "Jiddu Krishnamurti",
+    "Tags": ["Learning", "Education", "Book"],
+    "Popularity": 0.015746015746015744,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Beginning today, treat everyone you meet as if they were going to be dead by midnight. Extend to them all the care, kindness and understanding you can muster, and do it with no thought of any reward. Your life will never be the same again.",
+    "Author": "Og Mandino",
+    "Tags": ["Motivational", "Beginning"],
+    "Popularity": 0.015714015714015712,
+    "Category": "life"
+  },
+  {
+    "Quote":
+      "Never stop fighting until you arrive at your destined place - that is, the unique you. Have an aim in life, continuously acquire knowledge, work hard, and have perseverance to realise the great life.",
+    "Author": "A. P. J. Abdul Kalam",
+    "Tags": ["Work", "Knowledge", "Great"],
+    "Popularity": 0.01568101568101568,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "He who is not courageous enough to take risks will accomplish nothing in life.",
+    "Author": "Muhammad Ali",
+    "Tags": ["Courage", "Accomplish", "Risks"],
+    "Popularity": 0.01564901564901565,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Gratitude unlocks the fullness of life. It turns what we have into enough, and more. It turns denial into acceptance, chaos to order, confusion to clarity. It can turn a meal into a feast, a house into a home, a stranger into a friend.",
+    "Author": "Melody Beattie",
+    "Tags": ["Thankful", "Home", "Gratitude"],
+    "Popularity": 0.015617015617015617,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Hold fast to dreams, for if dreams die, life is a broken-winged bird that cannot fly.",
+    "Author": "Langston Hughes",
+    "Tags": ["Dreams", "Bird", "Fly"],
+    "Popularity": 0.015584015584015584,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Earth teach me to forget myself as melted snow forgets its life. Earth teach me resignation as the leaves which die in the fall. Earth teach me courage as the tree which stands all alone. Earth teach me regeneration as the seed which rises in the spring.",
+    "Author": "William Alexander",
+    "Tags": ["Courage", "Alone", "Spring"],
+    "Popularity": 0.015552015552015552,
+    "Category": "life"
+  },
+ {
+    "Quote": "Without music, life would be a mistake.",
+    "Author": "Friedrich Nietzsche",
+    "Tags": ["Music", "Mistake"],
+    "Popularity": 0.01552001552001552,
+    "Category": "life"
+  },
+{
+    "Quote": "The bird is powered by its own life and by its motivation.",
+    "Author": "A. P. J. Abdul Kalam",
+    "Tags": ["Inspirational", "Bird"],
+    "Popularity": 0.015488015488015488,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.",
+    "Author": "Mark Twain",
+    "Tags": ["Death", "Time", "Fear"],
+    "Popularity": 0.015456015456015456,
+    "Category": "life"
+  },
+  {
+    "Quote":
+      "Just as treasures are uncovered from the earth, so virtue appears from good deeds, and wisdom appears from a pure and peaceful mind. To walk safely through the maze of human life, one needs the light of wisdom and the guidance of virtue.",
+    "Author": "Buddha",
+    "Tags": ["Wisdom", "Good", "Virtue"],
+    "Popularity": 0.015424015424015424,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "I'm the one that's got to die when it's time for me to die, so let me live my life the way I want to.",
+    "Author": "Jimi Hendrix,  Jimi Hendrix - Axis: Bold as Love",
+    "Tags": ["death", "life "],
+    "Popularity": 0.015408015408015409,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "The Christian life is not a constant high. I have my moments of deep discouragement. I have to go to God in prayer with tears in my eyes, and say, 'O God, forgive me,' or 'Help me.'",
+    "Author": "Billy Graham",
+    "Tags": ["God", "Eyes", "Deep"],
+    "Popularity": 0.015392015392015393,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Take up one idea. Make that one idea your life - think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success.",
+    "Author": "Swami Vivekananda",
+    "Tags": ["Life", "Alone", "Brain"],
+    "Popularity": 0.01536001536001536,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Transformation is a process, and as life happens there are tons of ups and downs. It's a journey of discovery - there are moments on mountaintops and moments in deep valleys of despair.",
+    "Author": "Rick Warren",
+    "Tags": ["Discovery", "Journey", "Deep"],
+    "Popularity": 0.01536001536001536,
+    "Category": "life"
+  },
+  {
+    "Quote":
+      "The biggest adventure you can take is to live the life of your dreams.",
+    "Author": "Oprah Winfrey",
+    "Tags": ["Dreams", "Adventure", "Biggest"],
+    "Popularity": 0.015328015328015329,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "I've cried, and you'd think I'd be better for it, but the sadness just sleeps, and it stays in my spine the rest of my life.",
+    "Author": "Conor Oberst",
+    "Tags": ["Sad", "Sadness", "Cried"],
+    "Popularity": 0.015296015296015295,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "I decided to fly through the air and live in the sunlight and enjoy life as much as I could.",
+    "Author": "Evel Knievel",
+    "Tags": ["Fly", "Enjoy", "Sunlight"],
+    "Popularity": 0.015264015264015263,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "All you need in this life is ignorance and confidence, and then success is sure.",
+    "Author": "Mark Twain",
+    "Tags": ["Life", "Ignorance", "Confidence"],
+    "Popularity": 0.015232015232015231,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "One day I decided that I was beautiful, and so I carried out my life as if I was a beautiful girl. I wear colors that I really like, I wear makeup that makes me feel pretty, and it really helps. It doesn't have anything to do with how the world perceives you. What matters is what you see.",
+    "Author": "Gabourey Sidibe",
+    "Tags": ["Beautiful", "Girl", "Colors"],
+    "Popularity": 0.015232015232015231,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Life is all about evolution. What looks like a mistake to others has been a milestone in my life. Even if people have betrayed me, even if my heart was broken, even if people misunderstood or judged me, I have learned from these incidents. We are human and we make mistakes, but learning from them is what makes the difference.",
+    "Author": "Amisha Patel",
+    "Tags": ["Learning", "Mistakes", "Heart"],
+    "Popularity": 0.0152000152000152,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "All mankind... being all equal and independent, no one ought to harm another in his life, health, liberty or possessions.",
+    "Author": "John Locke",
+    "Tags": ["Health", "Equal", "Liberty"],
+    "Popularity": 0.015168015168015168,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Let your life lightly dance on the edges of Time like dew on the tip of a leaf.",
+    "Author": "Rabindranath Tagore",
+    "Tags": ["Inspirational", "Time"],
+    "Popularity": 0.015136015136015136,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "I always like to look on the optimistic side of life, but I am realistic enough to know that life is a complex matter.",
+    "Author": "Walt Disney",
+    "Tags": ["Positive", "Realistic", "Matter"],
+    "Popularity": 0.015105015105015105,
+    "Category": "life"
+  },
+{
+    "Quote":
+      "Don't walk through life just playing football. Don't walk through life just being an athlete. Athletics will fade. Character and integrity and really making an impact on someone's life, that's the ultimate vision, that's the ultimate goal - bottom line.",
+    "Author": "Ray Lewis",
+    "Tags": ["Integrity", "Character", "Goal"],
+    "Popularity": 0.015073015073015074,
+    "Category": "life"
+  },
+  {
+    "Quote":
+      "Dumbledore watched her fly away, and as her silvery glow faded he turned back to Snape, and his eyes were full of tears.\"After all this time?\"\"Always,\"said Snape.",
+    "Author": "J.K. Rowling,  Harry Potter and the Deathly Hallows",
+    "Tags": ["dumbledore", "life", "love", "snape "],
+    "Popularity": 0.01504901504901505,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "I've failed over and over and over again in my life and that is why I succeed.",
+    "Author": "Michael Jordan",
+    "Tags": ["Life", "Succeed", "Again"],
+    "Popularity": 0.015041015041015042,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "In school, you're taught a lesson and then given a test. In life, you're given a test that teaches you a lesson.",
+    "Author": "Tom Bodett",
+    "Tags": ["Test", "Lesson", "Given"],
+    "Popularity": 0.015041015041015042,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome.",
+    "Author": "Booker T. Washington",
+    "Tags": ["Life", "Obstacles", "Overcome"],
+    "Popularity": 0.01501001501001501,
+    "Category": "life"
+  },
+{
+    "Quote":
+      "Life is like a game of cards. The hand you are dealt is determinism; the way you play it is free will.",
+    "Author": "Jawaharlal Nehru",
+    "Tags": ["Game", "Free", "Cards"],
+    "Popularity": 0.01501001501001501,
+    "Category": "life"
+  },
+{
+    "Quote": "But better to get hurt by the truth than comforted with a lie.",
+    "Author": "Khaled Hosseini",
+    "Tags": ["life "],
+    "Popularity": 0.014978014978014978,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "I am a firm believer that God has already ordered the things that have taken place in my life... and I'm just learning to follow the path he's laid before me.",
+    "Author": "Monica Denise Brown",
+    "Tags": ["Learning", "God", "Path"],
+    "Popularity": 0.014978014978014978,
+    "Category": "life"
+  },
+  {
+    "Quote":
+      "Life, liberty, and property do not exist because men have made laws. On the contrary, it was the fact that life, liberty, and property existed beforehand that caused men to make laws in the first place.",
+    "Author": "Frederic Bastiat",
+    "Tags": ["Men", "Liberty", "Laws"],
+    "Popularity": 0.014946014946014946,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Grief can be the garden of compassion. If you keep your heart open through everything, your pain can become your greatest ally in your life's search for love and wisdom.",
+    "Author": "Rumi",
+    "Tags": ["Life", "Wisdom", "Compassion"],
+    "Popularity": 0.014946014946014946,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Never be afraid to meet to the hilt the demand of either work, or friendship - two of life's major assets.",
+    "Author": "Eleanor Robson Belmont",
+    "Tags": ["Friendship", "Work", "Afraid"],
+    "Popularity": 0.014915014915014915,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "I always say you can never be extravagant with beauty. Beauty is God made real. Beauty is life.",
+    "Author": "Imelda Marcos",
+    "Tags": ["Beauty", "God"],
+    "Popularity": 0.014883014883014883,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "I want to find that defining moment that you're satisfied and you've done what you want to do in your life.",
+    "Author": "Tyson Gay",
+    "Tags": ["Moment", "Satisfied", "Defining"],
+    "Popularity": 0.014852014852014851,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Although you may spend your life killing, You will not exhaust all your foes. But if you quell your own anger, your real enemy will be slain.",
+    "Author": "Nagarjuna",
+    "Tags": ["Anger", "Enemy", "Spend"],
+    "Popularity": 0.01482001482001482,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Three grand essentials to happiness in this life are something to do, something to love, and something to hope for.",
+    "Author": "Joseph Addison",
+    "Tags": ["Hope", "Life", "Happiness"],
+    "Popularity": 0.01482001482001482,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Just when you think it can't get any worse, it can. And just when you think it can't get any better, it can.",
+    "Author": "Nicholas Sparks,  At First Sight",
+    "Tags": ["life", "love "],
+    "Popularity": 0.014793014793014793,
+    "Category": "life"
+  },
+ {
+    "Quote": "In my wildest dreams, I could not have imagined a sweeter life.",
+    "Author": "Hugh Hefner",
+    "Tags": ["Dreams", "Imagined", "Sweeter"],
+    "Popularity": 0.014789014789014789,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Most of us have learned the hard way that there are very few things you can absolutely count on in life.",
+    "Author": "Graydon Carter",
+    "Tags": ["Count", "Learned", "Absolutely"],
+    "Popularity": 0.014758014758014758,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Norway or Switzerland are two marvelous countries, I very much admire, the most advanced countries in the world in fact with great qualities of life.",
+    "Author": "Jose Manuel Barroso",
+    "Tags": ["Great", "Admire", "Fact"],
+    "Popularity": 0.014726014726014727,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "There is a fountain of youth: it is your mind, your talents, the creativity you bring to your life and the lives of people you love. When you learn to tap this source, you will truly have defeated age.",
+    "Author": "Sophia Loren",
+    "Tags": ["Age", "Life", "Creativity"],
+    "Popularity": 0.014726014726014727,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "For the Puritans, the God-centered life meant making the quest for spiritual and moral holiness the great business of life.",
+    "Author": "Leland Ryken",
+    "Tags": ["Business", "Great", "Spiritual"],
+    "Popularity": 0.014695014695014694,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "If you go out to Hollywood you'll find a lot of fantastic plastic people there in the business and a lot of people in life generally. They find it so hard to be themselves that they have to be plastic.",
+    "Author": "Jimmy Cliff",
+    "Tags": ["Business", "Hollywood"],
+    "Popularity": 0.014664014664014664,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Offence is important; that's how you know you care about things. Imagine a life where you're not offended. So dull.",
+    "Author": "Marcus Brigstocke",
+    "Tags": ["Care", "Imagine", "Offended"],
+    "Popularity": 0.014632014632014632,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Throw your dreams into space like a kite, and you do not know what it will bring back, a new life, a new friend, a new love, a new country.",
+    "Author": "Anais Nin",
+    "Tags": ["Inspirational", "Life", "Dreams"],
+    "Popularity": 0.014632014632014632,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "God intended Earth. God intended the waters. God intended you and me. We were created in the image and the likeness of God; we are holograms, if you will. So the power, the presence, the energy is within you and me. The energy of God, as life, is within each of us.",
+    "Author": "Mary Manin Morrissey",
+    "Tags": ["God", "Power", "Energy"],
+    "Popularity": 0.014601014601014602,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Do what you love to do and give it your very best. Whether it's business or baseball, or the theater, or any field. If you don't love what you're doing and you can't give it your best, get out of it. Life is too short. You'll be an old man before you know it.",
+    "Author": "Al Lopez",
+    "Tags": ["Best", "Life", "Business"],
+    "Popularity": 0.014601014601014602,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "The half hour between waking and rising has all my life proved propitious to any task which was exercising my invention... It was always when I first opened my eyes that the desired ideas thronged upon me.",
+    "Author": "Walter Scott",
+    "Tags": ["Eyes", "Ideas", "Invention"],
+    "Popularity": 0.01457001457001457,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "I was born with this. It's a hereditary genetic condition. This is something you can go your whole life without really knowing that something's wrong. I had high blood pressure, and that was the first sign.",
+    "Author": "Steven Cojocaru",
+    "Tags": ["Pressure", "Wrong", "Blood"],
+    "Popularity": 0.014539014539014539,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Nothing can add more power to your life than concentrating all your energies on a limited set of targets.",
+    "Author": "Nido Qubein",
+    "Tags": ["Power", "Add", "Energies"],
+    "Popularity": 0.014508014508014509,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Self-esteem comes from who you have in your life. How you were raised. What you struggled with as a child.",
+    "Author": "Halle Berry",
+    "Tags": ["Child", "Raised", "Struggled"],
+    "Popularity": 0.014477014477014476,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "The things that will destroy America are prosperity-at-any-price, peace-at-any-price, safety-first instead of duty-first, the love of soft living, and the get-rich-quick theory of life.",
+    "Author": "Theodore Roosevelt",
+    "Tags": ["Failure", "Life", "Living"],
+    "Popularity": 0.014477014477014476,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "The 'Course in Miracles' says one day you will realize that death is not the punishment but the reward. And it says that birth is not the beginning of life but a continuation. And physical death is not the end of life but a continuation.",
+    "Author": "Marianne Williamson",
+    "Tags": ["Death", "Beginning", "Punishment"],
+    "Popularity": 0.014446014446014446,
+    "Category": "life"
+  },
+  {
+    "Quote":
+      "It's not true that life is one damn thing after another; it's one damn thing over and over.",
+    "Author": "Edna St. Vincent Millay",
+    "Tags": ["True", "Damn"],
+    "Popularity": 0.014415014415014415,
+    "Category": "life"
+  },
+ {
+    "Quote": "I feel 80% of my life is completely normal.",
+    "Author": "J. K. Rowling",
+    "Tags": ["Normal"],
+    "Popularity": 0.014384014384014383,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "With the price of life these days, you've got to get everything for free you can.",
+    "Author": "Carl Rogers",
+    "Tags": ["Free", "Days", "Price"],
+    "Popularity": 0.014353014353014353,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "I don't ever give my opinion. Opinions I have about anything are in my personal life.",
+    "Author": "Al Pacino",
+    "Tags": ["Opinion", "Opinions", "Personal"],
+    "Popularity": 0.014322014322014322,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "The joy which answers to prayer give, cannot be described; and the impetus which they afford to the spiritual life is exceedingly great.",
+    "Author": "George Muller",
+    "Tags": ["Great", "Prayer", "Spiritual"],
+    "Popularity": 0.01429101429101429,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Of any stopping place in life, it is good to ask whether it will be a good place from which to go on as well as a good place to remain.",
+    "Author": "Mary Catherine Bateson",
+    "Tags": ["Good", "Ask", "Remain"],
+    "Popularity": 0.01426001426001426,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Music is love, love is music, music is life, and I love my life. Thank you and good night.",
+    "Author": "A. J. McLean",
+    "Tags": ["Life", "Music", "Good"],
+    "Popularity": 0.01426001426001426,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "My whole life was foretold to me. An old Romany gypsy read my fortune.",
+    "Author": "Maureen O'Hara",
+    "Tags": ["Gypsy", "Fortune", "Foretold"],
+    "Popularity": 0.01422901422901423,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Inner-life questions are the kind everyone asks, with or without benefit of God-talk: 'Does my life have meaning and purpose?' 'Do I have gifts that the world wants and needs?' 'Whom and what shall I serve?' 'Whom and what can I trust?' 'How can I rise above my fears?'",
+    "Author": "Parker Palmer",
+    "Tags": ["Trust", "Purpose", "Questions"],
+    "Popularity": 0.014198014198014197,
+    "Category": "life"
+  },
+  {
+    "Quote": "If life had a second edition, how I would correct the proofs.",
+    "Author": "John Clare",
+    "Tags": ["Second", "Correct"],
+    "Popularity": 0.014168014168014168,
+    "Category": "life"
+  },
+ {
+    "Quote": "He who has a why to live can bear almost any how.",
+    "Author": "Friedrich Nietzsche",
+    "Tags": ["Bear", "Almost"],
+    "Popularity": 0.014106014106014106,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.",
+    "Author": "Mark Twain",
+    "Tags": ["death", "life "],
+    "Popularity": 0.014078014078014078,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "What do we live for, if not to make life less difficult for each other?",
+    "Author": "George Eliot",
+    "Tags": ["Difficult", "Less"],
+    "Popularity": 0.014076014076014077,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Life is a series of collisions with the future; it is not the sum of what we have been, but what we yearn to be.",
+    "Author": "Jose Ortega y Gasset",
+    "Tags": ["Future", "Sum", "Series"],
+    "Popularity": 0.014045014045014044,
+    "Category": "life"
+  },
+ {
+    "Quote": "There is no wealth but life.",
+    "Author": "John Ruskin",
+    "Tags": ["Wealth"],
+    "Popularity": 0.014014014014014014,
+    "Category": "life"
+  },
+ {
+    "Quote": "The less routine the more life.",
+    "Author": "Amos Bronson Alcott",
+    "Tags": ["Routine", "Less"],
+    "Popularity": 0.013984013984013985,
+    "Category": "life"
+  },
+ {
+    "Quote":
+      "Our entire life - consists ultimately in accepting ourselves as we are.",
+    "Author": "Jean Anouilh",
+    "Tags": ["Accepting", "Ourselves", "Entire"],
+    "Popularity": 0.013953013953013953,
+    "Category": "life"
+  },
+ {
+    "Quote": "Only a life lived for others is a life worthwhile.",
+    "Author": "Albert Einstein",
+    "Tags": ["Others", "Worthwhile", "Lived"],
+    "Popularity": 0.013923013923013924,
+    "Category": "life"
+  },
+ {
+    "Quote": "Remember when life's path is steep to keep your mind even.",
+    "Author": "Horace",
+    "Tags": ["Path", "Remember", "Steep"],
+    "Popularity": 0.013892013892013892,
+    "Category": "life"
+  }
+]

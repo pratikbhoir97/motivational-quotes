@@ -1,0 +1,853 @@
+[
+ {
+    "Quote":
+      "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+    "Author": "Mahatma Gandhi",
+    "Tags": ["carpe-diem", "education", "inspirational", "learning "],
+    "Popularity": 0.05958405958405959,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "Formal education will make you a living; self-education will make you a fortune.",
+    "Author": "Jim Rohn",
+    "Tags": ["Education", "Living"],
+    "Popularity": 0.01617001617001617,
+    "Category": "education"
+  },
+
+{
+    "Quote": "I have never let my schooling interfere with my education.",
+    "Author": "Mark Twain",
+    "Tags": ["attributed-no-source", "education "],
+    "Popularity": 0.015775015775015774,
+    "Category": "education"
+  },
+  {
+    "Quote": "You can never be overdressed or overeducated.",
+    "Author": "Oscar Wilde",
+    "Tags": ["education", "fashion "],
+    "Popularity": 0.01135901135901136,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "You educate a man; you educate a man. You educate a woman; you educate a generation.",
+    "Author": "Brigham Young",
+    "Tags": ["education", "feminism", "men", "women "],
+    "Popularity": 0.007652007652007652,
+    "Category": "education"
+  },
+  {
+    "Quote":
+      "The world is a book and those who do not travel read only one page.",
+    "Author": "Augustine of Hippo",
+    "Tags": [
+      "allegory",
+      "books",
+      "broad-mindedness",
+      "classic",
+      "education",
+      "imagery",
+      "travel",
+      "world "
+    ],
+    "Popularity": 0.006551006551006551,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "Education is the most powerful weapon which you can use to change the world.",
+    "Author": "Nelson Mandela",
+    "Tags": ["change", "education "],
+    "Popularity": 0.004957004957004957,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "I did then what I knew how to do. Now that I know better, I do better.",
+    "Author": "Maya Angelou",
+    "Tags": [
+      "attributed",
+      "attributed-no-source",
+      "education",
+      "intelligence",
+      "knowledge",
+      "unsourced "
+    ],
+    "Popularity": 0.003952003952003952,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "Whatever the cost of our libraries, the price is cheap compared to that of an ignorant nation.",
+    "Author": "Walter Cronkite",
+    "Tags": ["education", "ignorance", "intelligence", "libraries "],
+    "Popularity": 0.003127003127003127,
+    "Category": "education"
+  },
+  {
+    "Quote":
+      "Education is the ability to listen to almost anything without losing your temper or your self-confidence.",
+    "Author": "Robert Frost",
+    "Tags": ["education "],
+    "Popularity": 0.003067003067003067,
+    "Category": "education"
+  },
+  {
+    "Quote": "The past has no power over the present moment.",
+    "Author": "Eckhart Tolle",
+    "Tags": [
+      "education",
+      "inspirational",
+      "life",
+      "philosophy",
+      "truth",
+      "wisdom "
+    ],
+    "Popularity": 0.00292000292000292,
+    "Category": "education"
+  },
+{
+    "Quote": "Children must be taught how to think, not what to think.",
+    "Author": "Margaret Mead",
+    "Tags": [
+      "children",
+      "education",
+      "judgement",
+      "mentoring",
+      "reasoning "
+    ],
+    "Popularity": 0.002503002503002503,
+    "Category": "education"
+  },
+ {
+    "Quote": "Only a generation of readers will spawn a generation of writers.",
+    "Author": "Steven Spielberg",
+    "Tags": ["education", "reading "],
+    "Popularity": 0.002444002444002444,
+    "Category": "education"
+  },
+ {
+    "Quote": "The mind once enlightened cannot again become dark.",
+    "Author":
+      "Thomas Paine,  A Letter Addressed to the Abbe Raynal on the Affairs of North America",
+    "Tags": ["education", "experience", "wisdom "],
+    "Popularity": 0.002401002401002401,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "Education: the path from cocky ignorance to miserable uncertainty.",
+    "Author": "Mark Twain",
+    "Tags": ["education "],
+    "Popularity": 0.002226002226002226,
+    "Category": "education"
+  },
+ {
+    "Quote": "It does not matter how slowly you go as long as you do not stop.",
+    "Author": "Confucius",
+    "Tags": ["education", "inspirational", "life", "perseverance "],
+    "Popularity": 0.00219000219000219,
+    "Category": "education"
+  },
+ {
+    "Quote": "It does not matter how slowly you go as long as you do not stop.",
+    "Author": "Confucius",
+    "Tags": ["education", "inspirational", "life", "perseverance "],
+    "Popularity": 0.002189002189002189,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "If you want to get laid, go to college. If you want an education, go to the library.",
+    "Author": "Frank Zappa",
+    "Tags": ["education", "sex "],
+    "Popularity": 0.002165002165002165,
+    "Category": "education"
+  },
+  {
+    "Quote": "Intelligence plus character-that is the goal of true education.",
+    "Author": "Martin Luther King Jr.",
+    "Tags": ["education "],
+    "Popularity": 0.002116002116002116,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "Educating the mind without educating the heart is no education at all.",
+    "Author": "Aristotle",
+    "Tags": ["education", "ethics "],
+    "Popularity": 0.001781001781001781,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "The task of the modern educator is not to cut down jungles, but to irrigate deserts.",
+    "Author": "C.S. Lewis",
+    "Tags": ["education "],
+    "Popularity": 0.001745001745001745,
+    "Category": "education"
+  },
+ {
+    "Quote": "I am not a teacher, but an awakener.",
+    "Author": "Robert Frost",
+    "Tags": [
+      "carpe-diem",
+      "education",
+      "inspirational",
+      "learning",
+      "mentoring "
+    ],
+    "Popularity": 0.001716001716001716,
+    "Category": "education"
+  },
+ {
+    "Quote": "Marriage can wait, education cannot.",
+    "Author": "Khaled Hosseini,  A Thousand Splendid Suns",
+    "Tags": ["education", "marriage "],
+    "Popularity": 0.001648001648001648,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "A good head and good heart are always a formidable combination. But when you add to that a literate tongue or pen, then you have something very special.",
+    "Author": "Nelson Mandela",
+    "Tags": [
+      "education",
+      "goodness",
+      "intelligence",
+      "kindness",
+      "scholarship "
+    ],
+    "Popularity": 0.001631001631001631,
+    "Category": "education"
+  },
+{
+    "Quote":
+      "Spoon feeding in the long run teaches us nothing but the shape of the spoon.",
+    "Author": "E.M. Forster",
+    "Tags": [
+      "education",
+      "educational",
+      "inspirational",
+      "inspiring",
+      "learning",
+      "mentoring "
+    ],
+    "Popularity": 0.001599001599001599,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "[Kids] don't remember what you try to teach them. They remember what you are.",
+    "Author":
+      "Jim Henson,  It's Not Easy Being Green: And Other Things to Consider",
+    "Tags": ["childhood", "education", "learning", "teaching "],
+    "Popularity": 0.001589001589001589,
+    "Category": "education"
+  },
+  {
+    "Quote": "The mind is not a vessel to be filled, but a fire to be kindled.",
+    "Author": "Plutarch",
+    "Tags": ["curiosity", "education", "mentoring", "mind", "thinking "],
+    "Popularity": 0.001518001518001518,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "Do not train a child to learn by force or harshness; but direct them to it by what amuses their minds, so that you may be better able to discover with accuracy the peculiar bent of the genius of each.",
+    "Author": "Plato",
+    "Tags": ["discipline", "education", "mentoring", "philosophy "],
+    "Popularity": 0.001514001514001514,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "Give a girl an education and introduce her properly into the world, and ten to one but she has the means of settling well, without further expense to anybody.",
+    "Author": "Jane Austen",
+    "Tags": ["education", "women "],
+    "Popularity": 0.00151000151000151,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "Study without desire spoils the memory, and it retains nothing that it takes in.",
+    "Author": "Leonardo da Vinci",
+    "Tags": ["education", "schooling", "university "],
+    "Popularity": 0.001482001482001482,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "Education without values, as useful as it is, seems rather to make man a more clever devil.",
+    "Author": "C.S. Lewis",
+    "Tags": ["character-development", "education", "ethics "],
+    "Popularity": 0.001481001481001481,
+    "Category": "education"
+  },
+  {
+    "Quote":
+      "Without education, we are in a horrible and deadly danger of taking educated people seriously.",
+    "Author": "G.K. Chesterton",
+    "Tags": ["education", "ignorance", "indoctrination "],
+    "Popularity": 0.00126000126000126,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "Education is our passport to the future, for tomorrow belongs to the people who prepare for it today.",
+    "Author": "Malcolm X",
+    "Tags": ["education", "future "],
+    "Popularity": 0.001233001233001233,
+    "Category": "education"
+  },
+{
+    "Quote":
+      "Prejudices, it is well known, are most difficult to eradicate from the heart whose soil has never been loosened or fertilised by education: they grow there, firm as weeds among stones.",
+    "Author": "Charlotte Brontë,  Jane Eyre",
+    "Tags": ["education", "prejudice "],
+    "Popularity": 0.001232001232001232,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "Eragon looked back at him, confused. \"I don't understand.\"\"Of course you don't,\"said Brom impatiently. \"That's why I'm teaching you and not the other way around.",
+    "Author": "Christopher Paolini,  Eragon",
+    "Tags": ["education", "humor "],
+    "Popularity": 0.001231001231001231,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "All men who have turned out worth anything have had the chief hand in their own education.",
+    "Author": "Walter Scott",
+    "Tags": ["education", "homeschool "],
+    "Popularity": 0.001151001151001151,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "You know, sometimes kids get bad grades in school because the class moves too slow for them. Einstein got D's in school. Well guess what, I get F's!!!",
+    "Author": "Bill Watterson",
+    "Tags": [
+      "calvin-and-hobbes",
+      "comic",
+      "education",
+      "funny",
+      "school "
+    ],
+    "Popularity": 0.001087001087001087,
+    "Category": "education"
+  },
+ {
+    "Quote": "In real life, I assure you, there is no such thing as algebra.",
+    "Author": "Fran Lebowitz",
+    "Tags": ["algebra", "education", "humor", "mathematics "],
+    "Popularity": 0.001065001065001065,
+    "Category": "education"
+  },
+ {
+    "Quote": "Ignoring isn’t the same as ignorance, you have to work at it.",
+    "Author": "Margaret Atwood,  The Handmaid's Tale",
+    "Tags": ["education "],
+    "Popularity": 0.001065001065001065,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "Often, it’s not about becoming a new person, but becoming the person you were meant to be, and already are, but don’t know how to be.",
+    "Author": "Heath L. Buckmaster,  Box of Hair: A Fairy Tale",
+    "Tags": [
+      "education",
+      "growth",
+      "life",
+      "self-acceptance",
+      "self-realization "
+    ],
+    "Popularity": 0.001054001054001054,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "Education is the kindling of a flame, not the filling of a vessel.",
+    "Author": "Socrates",
+    "Tags": [
+      "education",
+      "enlightenment",
+      "learning",
+      "lifelong-learning",
+      "mentorship "
+    ],
+    "Popularity": 0.000974000974000974,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "To me education is a leading out of what is already there in the pupil's soul.",
+    "Author": "Muriel Spark,  The Prime of Miss Jean Brodie",
+    "Tags": ["education", "soul "],
+    "Popularity": 0.000962000962000962,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "The educated differ from the uneducated as much as the living differ from the dead.",
+    "Author": "Aristotle",
+    "Tags": ["education "],
+    "Popularity": 0.000943000943000943,
+    "Category": "education"
+  },
+  {
+    "Quote":
+      "The whole educational and professional training system is a very elaborate filter, which just weeds out people who are too independent, and who think for themselves, and who don't know how to be submissive, and so on -- because they're dysfunctional to the institutions.",
+    "Author": "Noam Chomsky",
+    "Tags": ["education", "education-system", "instituions "],
+    "Popularity": 0.00094000094000094,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "Self-education is, I firmly believe, the only kind of education there is.",
+    "Author": "Isaac Asimov",
+    "Tags": [
+      "education",
+      "learning",
+      "lifelong-learning",
+      "self-education "
+    ],
+    "Popularity": 0.000937000937000937,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "Getting an education was a bit like a communicable sexual disease. It made you unsuitable for a lot of jobs and then you had the urge to pass it on.",
+    "Author": "Terry Pratchett,  Hogfather",
+    "Tags": ["education", "simile "],
+    "Popularity": 0.000895000895000895,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "I don't believe in colleges and universities. I believe in libraries because most students don't have any money. When I graduated from high school, it was during the Depression and we had no money. I couldn't go to college, so I went to the library three days a week for 10 years.",
+    "Author": "Ray Bradbury",
+    "Tags": ["education", "libraries", "self-education "],
+    "Popularity": 0.000784000784000784,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young.",
+    "Author": "Henry Ford",
+    "Tags": ["education", "lifelong-learning "],
+    "Popularity": 0.000779000779000779,
+    "Category": "education"
+  },
+  {
+    "Quote": "In learning you will teach, and in teaching you will learn.",
+    "Author": "Phil Collins",
+    "Tags": ["education", "learning", "mentoring", "teaching "],
+    "Popularity": 0.000775000775000775,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "Try not to have a good time...this is supposed to be educational.",
+    "Author": "Charles M. Schulz",
+    "Tags": ["education", "humor "],
+    "Popularity": 0.000771000771000771,
+    "Category": "education"
+  },
+{
+    "Quote":
+      "There is, I believe, in every disposition a tendency to some particular evil, a natural defect, which not even the best education can overcome.\"\"And your defect is a propensity to hate everybody.\"\"And yours,\"he replied with a smile, \"is wilfully to misunderstand them.",
+    "Author": "Jane Austen,  Pride and Prejudice",
+    "Tags": [
+      "character",
+      "defects",
+      "dislike",
+      "education",
+      "hatred",
+      "misunderstanding",
+      "propensity",
+      "repartee",
+      "retort",
+      "wit "
+    ],
+    "Popularity": 0.000715000715000715,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "Education is not the filling of a pail, but the lighting of a fire.",
+    "Author": "W.B. Yeats",
+    "Tags": ["education", "lifelong-learning "],
+    "Popularity": 0.000705000705000705,
+    "Category": "education"
+  },
+  {
+    "Quote":
+      "The man who reads nothing at all is better educated than the man who reads nothing but newspapers.",
+    "Author": "Thomas Jefferson",
+    "Tags": ["education", "illiteracy", "journalism", "literature "],
+    "Popularity": 0.000674000674000674,
+    "Category": "education"
+  },
+  {
+    "Quote":
+      "I think the big mistake in schools is trying to teach children anything, and by using fear as the basic motivation. Fear of getting failing grades, fear of not staying with your class, etc. Interest can produce learning on a scale compared to fear as a nuclear explosion to a firecracker.",
+    "Author": "Stanley Kubrick",
+    "Tags": ["education", "fear", "interest", "learning "],
+    "Popularity": 0.000673000673000673,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "The more I live, the more I learn. The more I learn, the more I realize, the less I know.",
+    "Author": "Michel Legrand",
+    "Tags": [
+      "apothegm",
+      "education",
+      "life",
+      "lifelong-learning",
+      "lyrics "
+    ],
+    "Popularity": 0.000672000672000672,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "Teach the ignorant as much as you can; society is culpable in not providing a free education for all and it must answer for the night which it produces. If the soul is left in darkness sins will be committed. The guilty one is not he who commits the sin, but he who causes the darkness.",
+    "Author": "Victor Hugo,  Les Misérables",
+    "Tags": ["education "],
+    "Popularity": 0.000659000659000659,
+    "Category": "education"
+  },
+ {
+    "Quote": "He who opens a school door, closes a prison.",
+    "Author": "Victor Hugo",
+    "Tags": ["education "],
+    "Popularity": 0.000654000654000654,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "Wisdom is not a product of schooling but of the lifelong attempt to acquire it.",
+    "Author": "Albert Einstein",
+    "Tags": [
+      "education",
+      "knowledge-wisdom",
+      "learning",
+      "school",
+      "science",
+      "wisdom "
+    ],
+    "Popularity": 0.00065000065000065,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "Formal education will make you a living; self-education will make you a fortune.",
+    "Author": "Jim Rohn",
+    "Tags": ["education", "self-improvement "],
+    "Popularity": 0.000649000649000649,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "To educate a person in the mind but not in morals is to educate a menace to society.",
+    "Author": "Theodore Roosevelt",
+    "Tags": ["character", "education", "morality "],
+    "Popularity": 0.000645000645000645,
+    "Category": "education"
+  },
+ {
+    "Quote": "I go to school, but I never learn what I want to know.",
+    "Author": "Bill Watterson,  The Authoritative Calvin And Hobbes",
+    "Tags": ["education "],
+    "Popularity": 0.000625000625000625,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "Game shows are designed to make us feel better about the random, useless facts that are all we have left of our education.",
+    "Author": "Chuck Palahniuk,  Invisible Monsters",
+    "Tags": ["education", "game-shows", "trivia "],
+    "Popularity": 0.000608000608000608,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "Educate a boy, and you educate an individual. Educate a girl, and you educate a community.",
+    "Author": "Adelaide Hoodless",
+    "Tags": [
+      "community",
+      "education",
+      "inspiriational",
+      "proverb",
+      "sharing",
+      "women "
+    ],
+    "Popularity": 0.000538000538000538,
+    "Category": "education"
+  },
+ {
+    "Quote": "Education consists mainly of what we have unlearned.",
+    "Author": "Mark Twain,  Notebook",
+    "Tags": ["education "],
+    "Popularity": 0.000536000536000536,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "We spend the first year of a child's life teaching it to walk and talk and the rest of its life to shut up and sit down. There's something wrong there.",
+    "Author": "Neil deGrasse Tyson",
+    "Tags": ["children", "education "],
+    "Popularity": 0.000536000536000536,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "For if you suffer your people to be ill-educated, and their manners to be corrupted from their infancy, and then punish them for those crimes to which their first education disposed them, what else is to be concluded from this, but that you first make thieves and then punish them.",
+    "Author": "Thomas More,  Utopia",
+    "Tags": [
+      "education",
+      "manners",
+      "politics",
+      "punishment",
+      "scapegoats",
+      "thieves "
+    ],
+    "Popularity": 0.00052000052000052,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "Cinema is the ultimate pervert art. It doesn't give you what you desire - it tells you how to desire.",
+    "Author": "Slavoj Žižek",
+    "Tags": [
+      "art",
+      "cinema",
+      "education",
+      "film",
+      "life",
+      "philosophy",
+      "scholarship "
+    ],
+    "Popularity": 0.000466000466000466,
+    "Category": "education"
+  },
+{
+    "Quote": "By seeking and blundering we learn.",
+    "Author": "Johann Wolfgang von Goethe",
+    "Tags": ["education", "experience", "learning-from-mistakes "],
+    "Popularity": 0.000466000466000466,
+    "Category": "education"
+  },
+  {
+    "Quote": "O teach me how I should forget to think (1.1.224)",
+    "Author": "William Shakespeare,  Romeo and Juliet",
+    "Tags": ["classics", "education "],
+    "Popularity": 0.000441000441000441,
+    "Category": "education"
+  },
+{
+    "Quote":
+      "Education either functions as an instrument which is used to facilitate integration of the younger generation into the logic of the present system and bring about conformity or it becomes the practice of freedom, the means by which men and women deal critically and creatively with reality and discover how to participate in the transformation of their world.",
+    "Author": "Richard Shaull,  Pedagogy of the Oppressed",
+    "Tags": ["education "],
+    "Popularity": 0.000428000428000428,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "Art is unquestionably one of the purest and highest elements in human happiness. It trains the mind through the eye, and the eye through the mind. As the sun colors flowers, so does art color life.",
+    "Author": "John Lubbock,  The Pleasures of Life",
+    "Tags": [
+      "education",
+      "enlightenment",
+      "happiness",
+      "learning",
+      "life",
+      "nature-art",
+      "pleasure",
+      "purity",
+      "science",
+      "training "
+    ],
+    "Popularity": 0.000421000421000421,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "Do you know the difference between education and experience? Education is when you read the fine print; experience is what you get when you don't.",
+    "Author": "Pete Seeger",
+    "Tags": ["education", "humor "],
+    "Popularity": 0.000408000408000408,
+    "Category": "education"
+  },
+  {
+    "Quote":
+      "All these people talk so eloquently about getting back to good old-fashioned values. Well, as an old poop I can remember back to when we had those old-fashioned values, and I say let's get back to the good old-fashioned First Amendment of the good old-fashioned Constitution of the United States -- and to hell with the censors! Give me knowledge or give me death!",
+    "Author": "Kurt Vonnegut",
+    "Tags": ["censorship", "education", "free-speech", "paraphrased "],
+    "Popularity": 0.000401000401000401,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "Give a bowl of rice to a man and you will feed him for a day. Teach him how to grow his own rice and you will save his life.",
+    "Author": "Confucius",
+    "Tags": [
+      "education",
+      "enduring-good",
+      "generosity",
+      "life",
+      "wise-advice",
+      "work "
+    ],
+    "Popularity": 0.000399000399000399,
+    "Category": "education"
+  },
+  {
+    "Quote":
+      "Drop out of school before your mind rots from exposure to our mediocre educational system. Forget about the Senior Prom and go to the library and educate yourself if you've got any guts. Some of you like Pep rallies and plastic robots who tell you what to read.",
+    "Author": "Frank Zappa",
+    "Tags": ["education", "high-school", "self-education "],
+    "Popularity": 0.000397000397000397,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "True teachers are those who use themselves as bridges over which they invite their students to cross; then, having facilitated their crossing, joyfully collapse, encouraging them to create theirown.",
+    "Author": "Nikos Kazantzakis",
+    "Tags": ["education", "learning", "teaching "],
+    "Popularity": 0.000394000394000394,
+    "Category": "education"
+  },
+ {
+    "Quote": "Education is no substitute for intelligence.",
+    "Author": "Frank Herbert",
+    "Tags": ["education", "intelligence", "wisdom "],
+    "Popularity": 0.000389000389000389,
+    "Category": "education"
+  },
+{
+    "Quote":
+      "I would rather entertain and hope that people learned something than educate people and hope they were entertained",
+    "Author": "Walt Disney Company",
+    "Tags": ["education", "entertainment "],
+    "Popularity": 0.000389000389000389,
+    "Category": "education"
+  },
+ {
+    "Quote": "Education is a system of imposed ignorance.",
+    "Author":
+      "Noam Chomsky,  Manufacturing Consent: The Political Economy of the Mass Media",
+    "Tags": [
+      "education",
+      "homeschooling",
+      "ignorance",
+      "public-education "
+    ],
+    "Popularity": 0.000388000388000388,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "Instruction does much, but encouragement everything.\"(Letter to A.F. Oeser, Nov. 9, 1768)",
+    "Author":
+      "Johann Wolfgang von Goethe,  Early and Miscellaneous Letters of J. W. Goethe: Including Letters to His Mother. With Notes and a Short Biography",
+    "Tags": [
+      "education",
+      "encouragement",
+      "instruction",
+      "learning",
+      "school "
+    ],
+    "Popularity": 0.000345000345000345,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "In the first place God made idiots. This was for practice. Then he made school boards.",
+    "Author": "Mark Twain,  Following the Equator: A Journey Around the World",
+    "Tags": ["education", "humor "],
+    "Popularity": 0.000342000342000342,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "A primary object should be the education of our youth in the science of government. In a republic, what species of knowledge can be equally important? And what duty more pressing than communicating it to those who are to be the future guardians of the liberties of the country?",
+    "Author": "George Washington",
+    "Tags": ["education", "government", "liberty", "politics", "youth "],
+    "Popularity": 0.00034000034000034,
+    "Category": "education"
+  },
+ {
+    "Quote": "Progress just means bad things happen faster.",
+    "Author": "Terry Pratchett,  Witches Abroad",
+    "Tags": ["education", "humor", "life", "philosphy", "truth "],
+    "Popularity": 0.000335000335000335,
+    "Category": "education"
+  },
+ {
+    "Quote": "Knowledge will bring you the opportunity to make a difference.",
+    "Author": "Claire Fagin",
+    "Tags": ["education", "inspiratonal "],
+    "Popularity": 0.000328000328000328,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "There is no school equal to a decent home and no teacher equal to a virtuous parent.",
+    "Author": "Mahatma Gandhi",
+    "Tags": ["education", "homeschool", "homeschooling", "learning "],
+    "Popularity": 0.000325000325000325,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "The highest activity a human being can attain is learning for understanding, because to understand is to be free.",
+    "Author": "Baruch Spinoza",
+    "Tags": ["education", "free-thought", "philosophy "],
+    "Popularity": 0.000315000315000315,
+    "Category": "education"
+  },
+ {
+    "Quote": "Wisdom.... comes not from age, but from education and learning.",
+    "Author": "Anton Chekhov",
+    "Tags": ["anton-chekhov", "books", "education", "learning", "wisdom "],
+    "Popularity": 0.000315000315000315,
+    "Category": "education"
+  },
+ {
+    "Quote": "I don't want to believe. I want to know.",
+    "Author": "Carl Sagan",
+    "Tags": ["atheism", "education", "religion", "science "],
+    "Popularity": 0.000314000314000314,
+    "Category": "education"
+  },
+ {
+    "Quote":
+      "Thank goodness I was never sent to school; it would have rubbed off some of the originality.",
+    "Author": "Beatrix Potter",
+    "Tags": ["creativity", "education", "self-education", "uniqueness "],
+    "Popularity": 0.000306000306000306,
+    "Category": "education"
+  },
+ {
+    "Quote": "All I have learned, I learned from books.",
+    "Author": "Abraham Lincoln",
+    "Tags": [
+      "books",
+      "education",
+      "lifelong-learning",
+      "lincoln",
+      "reading",
+      "self-education "
+    ],
+    "Popularity": 0.000306000306000306,
+    "Category": "education"
+  }
+]

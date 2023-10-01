@@ -1,0 +1,732 @@
+[
+ {
+    "Quote":
+      "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
+    "Author": "Albert Einstein",
+    "Tags": [
+      "attributed-no-source",
+      "human-nature",
+      "humor",
+      "infinity",
+      "philosophy",
+      "science",
+      "stupidity",
+      "universe "
+    ],
+    "Popularity": 0.10312710312710313,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.",
+    "Author": "Marie Curie",
+    "Tags": ["Time", "Fear", "Understand"],
+    "Popularity": 0.011343011343011343,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "The Seven Social Sins are: Wealth without work. Pleasure without conscience. Knowledge without character. Commerce without morality. Science without humanity. Worship without sacrifice. Politics without principle.From a sermon given by Frederick Lewis Donaldson in Westminster Abbey, London, on March 20, 1925.",
+    "Author": "Frederick Lewis Donaldson",
+    "Tags": [
+      "character",
+      "commerce",
+      "conscience",
+      "happiness",
+      "humanity",
+      "knowledge",
+      "misattributed-to-gandhi",
+      "money",
+      "morality",
+      "pleasure",
+      "politics",
+      "principle",
+      "sacrifice",
+      "science",
+      "sin",
+      "sins",
+      "wealth",
+      "work",
+      "worship "
+    ],
+    "Popularity": 0.011138011138011139,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.",
+    "Author": "Isaac Asimov",
+    "Tags": ["life", "science", "wisdom "],
+    "Popularity": 0.009989009989009989,
+    "Category": "science"
+  },
+ {
+    "Quote": "Life would be tragic if it weren't funny.",
+    "Author": "Stephen Hawking",
+    "Tags": ["Funny", "Tragic"],
+    "Popularity": 0.009856009856009856,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.",
+    "Author": "Isaac Asimov",
+    "Tags": ["Science", "Wisdom", "Knowledge"],
+    "Popularity": 0.008954008954008955,
+    "Category": "science"
+  },
+  {
+    "Quote": "Never memorize something that you can look up.",
+    "Author": "Albert Einstein",
+    "Tags": ["humor", "science "],
+    "Popularity": 0.008709008709008708,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "Science without religion is lame, religion without science is blind.",
+    "Author": "Albert Einstein",
+    "Tags": ["religion", "science "],
+    "Popularity": 0.007963007963007963,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "Science without religion is lame, religion without science is blind.",
+    "Author": "Albert Einstein",
+    "Tags": ["religion", "science "],
+    "Popularity": 0.007962007962007961,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "If we knew what it was we were doing, it would not be called research, would it?",
+    "Author": "Albert Einstein",
+    "Tags": ["science "],
+    "Popularity": 0.007234007234007234,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "One, remember to look up at the stars and not down at your feet. Two, never give up work. Work gives you meaning and purpose and life is empty without it. Three, if you are lucky enough to find love, remember it is there and don't throw it away.",
+    "Author": "Stephen Hawking",
+    "Tags": ["philosophy", "science "],
+    "Popularity": 0.006219006219006219,
+    "Category": "science"
+  },
+ {
+    "Quote": "Somewhere, something incredible is waiting to be known.",
+    "Author": "Carl Sagan",
+    "Tags": ["astronomer", "science", "writer "],
+    "Popularity": 0.006018006018006018,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "The important thing is to not stop questioning. Curiosity has its own reason for existence. One cannot help but be in awe when he contemplates the mysteries of eternity, of life, of the marvelous structure of reality. It is enough if one tries merely to comprehend a little of this mystery each day.—\"Old Man's Advice to Youth: 'Never Lose a Holy Curiosity.'\"LIFE Magazine (2 May 1955) p. 64",
+    "Author": "Albert Einstein",
+    "Tags": ["1955", "curiosity", "mystery", "physics", "science "],
+    "Popularity": 0.005602005602005602,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "The fact that we live at the bottom of a deep gravity well, on the surface of a gas covered planet going around a nuclear fireball 90 million miles away and think this to be normal is obviously some indication of how skewed our perspective tends to be.",
+    "Author":
+      "Douglas Adams,  The Salmon of Doubt: Hitchhiking the Galaxy One Last Time",
+    "Tags": ["humor", "perspective", "science "],
+    "Popularity": 0.004857004857004857,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "The most beautiful experience we can have is the mysterious. It is the fundamental emotion that stands at the cradle of true art and true science.",
+    "Author": "Albert Einstein,  The World As I See It",
+    "Tags": ["1931", "art", "mystery", "philosophy", "science "],
+    "Popularity": 0.003775003775003775,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "We are just an advanced breed of monkeys on a minor planet of a very average star. But we can understand the Universe. That makes us something very special.",
+    "Author": "Stephen Hawking",
+    "Tags": ["inspirational", "science "],
+    "Popularity": 0.003282003282003282,
+    "Category": "science"
+  },
+  {
+    "Quote": "Time is a drug. Too much of it kills you.",
+    "Author": "Terry Pratchett,  Small Gods",
+    "Tags": ["humor", "science "],
+    "Popularity": 0.00323000323000323,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "Common sense and a sense of humor are the same thing, moving at different speeds. A sense of humor is just common sense, dancing.",
+    "Author": "Clive James",
+    "Tags": ["Moving", "Dancing", "Speeds"],
+    "Popularity": 0.003197003197003197,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "An expert is a person who has made all the mistakes that can be made in a very narrow field.",
+    "Author": "Niels Bohr",
+    "Tags": ["science "],
+    "Popularity": 0.003034003034003034,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "Science and religion are not at odds. Science is simply too young to understand.",
+    "Author": "Dan Brown,  Angels \u0026 Demons",
+    "Tags": ["books", "dan-brown", "religion", "science "],
+    "Popularity": 0.002994002994002994,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "I'm sure the universe is full of intelligent life. It's just been too intelligent to come here.",
+    "Author": "Arthur C. Clarke",
+    "Tags": [
+      "extraterrestrials",
+      "humor",
+      "intelligent-life",
+      "life",
+      "science",
+      "universe "
+    ],
+    "Popularity": 0.002965002965002965,
+    "Category": "science"
+  },
+  {
+    "Quote": "In the beginning there was nothing, which exploded.",
+    "Author": "Terry Pratchett,  Lords and Ladies",
+    "Tags": ["humor", "metaphysics", "physics", "science "],
+    "Popularity": 0.002555002555002555,
+    "Category": "science"
+  },
+ {
+    "Quote": "Everything must be made as simple as possible. But not simpler.",
+    "Author": "Albert Einstein",
+    "Tags": ["einstein", "paraphrased", "science", "systems "],
+    "Popularity": 0.002413002413002413,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "That which can be asserted without evidence, can be dismissed without evidence.",
+    "Author": "Christopher Hitchens",
+    "Tags": ["atheism", "reason", "science", "skeptic "],
+    "Popularity": 0.002195002195002195,
+    "Category": "science"
+  },
+ {
+    "Quote": "Heard melodies are sweet, but those unheard, are sweeter",
+    "Author": "John Keats,  Ode on a Grecian Urn and Other Poems",
+    "Tags": ["philosophy", "religion", "science "],
+    "Popularity": 0.002179002179002179,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "A man who dares to waste one hour of time has not discovered the value of life.",
+    "Author": "Charles Darwin,  The Life \u0026 Letters of Charles Darwin",
+    "Tags": [
+      "dare",
+      "inspirational",
+      "life",
+      "science",
+      "time",
+      "value",
+      "waste "
+    ],
+    "Popularity": 0.002019002019002019,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "Space is big. You just won't believe how vastly, hugely, mind-bogglingly big it is. I mean, you may think it's a long way down the road to the chemist's, but that's just peanuts to space.",
+    "Author": "Douglas Adams,  The Hitchhiker's Guide to the Galaxy",
+    "Tags": ["humor", "science "],
+    "Popularity": 0.001832001832001832,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.",
+    "Author": "Marie Curie",
+    "Tags": ["fear", "life", "science", "understanding "],
+    "Popularity": 0.001765001765001765,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "The good thing about science is that it's true whether or not you believe in it.",
+    "Author": "Neil deGrasse Tyson",
+    "Tags": ["belief", "science", "true "],
+    "Popularity": 0.00176000176000176,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "If I have seen further it is by standing on the shoulders of Giants.",
+    "Author": "Isaac Newton,  The Correspondence Of Isaac Newton",
+    "Tags": ["principia", "science "],
+    "Popularity": 0.00175000175000175,
+    "Category": "science"
+  },
+{
+    "Quote":
+      "Science is not only compatible with spirituality; it is a profound source of spirituality.",
+    "Author":
+      "Carl Sagan,  The Demon-Haunted World: Science as a Candle in the Dark",
+    "Tags": [
+      "metaphysics",
+      "philosophy",
+      "science",
+      "sense-of-wonder",
+      "spirituality "
+    ],
+    "Popularity": 0.001684001684001684,
+    "Category": "science"
+  },
+  {
+    "Quote": "If the facts don't fit the theory, change the facts.",
+    "Author": "Albert Einstein",
+    "Tags": ["facts", "humor", "science "],
+    "Popularity": 0.001656001656001656,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "It would be possible to describe everything scientifically, but it would make no sense; it would be without meaning, as if you described a Beethoven symphony as a variation of wave pressure.",
+    "Author": "Albert Einstein",
+    "Tags": ["art", "cybernetics", "science "],
+    "Popularity": 0.001407001407001407,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "A thinker sees his own actions as experiments and questions--as attempts to find out something. Success and failure are for him answers above all.",
+    "Author": "Friedrich Nietzsche",
+    "Tags": [
+      "failure",
+      "intelligence",
+      "science",
+      "scientific-process",
+      "success",
+      "truth "
+    ],
+    "Popularity": 0.001327001327001327,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "If you wish to make an apple pie from scratch, you must first invent the universe.",
+    "Author": "Carl Sagan,  Cosmos",
+    "Tags": ["science "],
+    "Popularity": 0.001296001296001296,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "For me, I am driven by two main philosophies: know more today about the world than I knew yesterday and lessen the suffering of others. You'd be surprised how far that gets you.",
+    "Author": "Neil deGrasse Tyson",
+    "Tags": [
+      "compassion",
+      "inspiration",
+      "inspirational",
+      "knowledge",
+      "learning",
+      "philosophy",
+      "science",
+      "values "
+    ],
+    "Popularity": 0.001276001276001276,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "Any sufficiently advanced technology is indistinguishable from magic.",
+    "Author":
+      "Arthur C. Clarke,  Profiles of the Future: An Inquiry Into the Limits of the Possible",
+    "Tags": ["magic", "science", "technology", "wonder "],
+    "Popularity": 0.001225001225001225,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "So this is it,\"said Arthur, \"We are going to die.\"\"Yes,\"said Ford, \"except... no! Wait a minute!\"He suddenly lunged across the chamber at something behind Arthur's line of vision. \"What's this switch?\"he cried.\"What? Where?\"cried Arthur, twisting round.\"No, I was only fooling,\"said Ford, \"we are going to die after all.",
+    "Author": "Douglas Adams,  The Hitchhiker's Guide to the Galaxy",
+    "Tags": ["gallows-humor", "humor", "science "],
+    "Popularity": 0.001185001185001185,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "I believe there is another world waiting for us. A better world. And I'll be waiting for you there.",
+    "Author": "David Mitchell,  Cloud Atlas",
+    "Tags": [
+      "cloud-atlas",
+      "inspirational",
+      "inspirational-quotes",
+      "life",
+      "science "
+    ],
+    "Popularity": 0.001124001124001124,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "Though my soul may set in darkness, it will rise in perfect light; I have loved the stars too fondly to be fearful of the night.",
+    "Author": "Sarah Williams,  Twilight Hours: A Legacy of Verse",
+    "Tags": ["poetry", "science", "stars "],
+    "Popularity": 0.001118001118001118,
+    "Category": "science"
+  },
+  {
+    "Quote":
+      "In my opinion, we don't devote nearly enough scientific research to finding a cure for jerks.",
+    "Author": "Bill Watterson",
+    "Tags": ["humor", "jerks", "science "],
+    "Popularity": 0.001109001109001109,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "I can see how it might be possible for a man to look down upon the earth and be an atheist, but I cannot conceive how a man could look up into the heavens and say there is no God.",
+    "Author": "Abraham Lincoln",
+    "Tags": [
+      "abraham-lincoln",
+      "life",
+      "politics",
+      "religion",
+      "science "
+    ],
+    "Popularity": 0.001082001082001082,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "For me, it is far better to grasp the Universe as it really is than to persist in delusion, however satisfying and reassuring.",
+    "Author":
+      "Carl Sagan,  The Demon-Haunted World: Science as a Candle in the Dark",
+    "Tags": [
+      "cosmology",
+      "delusion",
+      "knowledge",
+      "religion",
+      "science",
+      "truth",
+      "understanding "
+    ],
+    "Popularity": 0.00107000107000107,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "If you try and take a cat apart to see how it works, the first thing you have on your hands is a non-working cat.",
+    "Author": "Douglas Adams",
+    "Tags": ["humor", "science "],
+    "Popularity": 0.000981000981000981,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "Do you know what we call opinion in the absence of evidence? We call it prejudice.",
+    "Author": "Michael Crichton,  State of Fear",
+    "Tags": ["bigotry", "fiction", "prejudice", "science "],
+    "Popularity": 0.000956000956000956,
+    "Category": "science"
+  },
+ {
+    "Quote": "Extraordinary claims require extraordinary evidence.",
+    "Author": "Carl Sagan",
+    "Tags": ["evidence", "faith", "science", "skepticism "],
+    "Popularity": 0.00092000092000092,
+    "Category": "science"
+  },
+  {
+    "Quote":
+      "Physics is like sex: sure, it may give some practical results, but that's not why we do it.",
+    "Author": "Richard Feynman",
+    "Tags": ["science", "sex "],
+    "Popularity": 0.000916000916000916,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "Who is more humble? The scientist who looks at the universe with an open mind and accepts whatever the universe has to teach us, or somebody who says everything in this book must be considered the literal truth and never mind the fallibility of all the human beings involved?",
+    "Author": "Carl Sagan",
+    "Tags": ["agnosticism", "humility", "science", "skepticism", "truth "],
+    "Popularity": 0.000912000912000912,
+    "Category": "science"
+  },
+ {
+    "Quote": "God does not play dice with the universe.",
+    "Author": "Albert Einstein,  The Born-Einstein Letters 1916-55",
+    "Tags": ["quantum-physics", "science "],
+    "Popularity": 0.000899000899000899,
+    "Category": "science"
+  },
+ {
+    "Quote": "Somewhere, something incredible is waiting to be known.",
+    "Author": "Carl Sagan",
+    "Tags": ["Incredible", "Waiting"],
+    "Popularity": 0.0008740008740008741,
+    "Category": "science"
+  },
+ {
+    "Quote": "We are an impossibility in an impossible universe.",
+    "Author": "Ray Bradbury",
+    "Tags": ["science", "sense-of-wonder", "universe", "wonder "],
+    "Popularity": 0.00083000083000083,
+    "Category": "science"
+  },
+  {
+    "Quote":
+      "Science investigates; religion interprets. Science gives man knowledge, which is power; religion gives man wisdom, which is control. Science deals mainly with facts; religion deals mainly with values. The two are not rivals.",
+    "Author": "Martin Luther King Jr.",
+    "Tags": ["religion", "science "],
+    "Popularity": 0.000828000828000828,
+    "Category": "science"
+  },
+{
+    "Quote":
+      "The most incomprehensible thing about the world is that it is at all comprehensible.",
+    "Author": "Albert Einstein",
+    "Tags": ["einstein", "philosophy", "science "],
+    "Popularity": 0.000823000823000823,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "You never change things by fighting the existing reality.To change something, build a new model that makes the existing model obsolete.",
+    "Author": "R. Buckminster Fuller",
+    "Tags": [
+      "activism",
+      "adaption",
+      "change",
+      "development",
+      "digital-revolution",
+      "future",
+      "movement",
+      "new-models",
+      "p2p",
+      "progress",
+      "progression",
+      "protest",
+      "revolution",
+      "science",
+      "society",
+      "structural-changes",
+      "technology",
+      "world",
+      "zeitgeist",
+      "zeitgeist-movement "
+    ],
+    "Popularity": 0.000787000787000787,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "Reading, after a certain age, diverts the mind too much from its creative pursuits. Any man who reads too much and uses his own brain too little falls into lazy habits of thinking.",
+    "Author": "Albert Einstein",
+    "Tags": ["reading", "science "],
+    "Popularity": 0.000717000717000717,
+    "Category": "science"
+  },
+  {
+    "Quote":
+      "We are stuck with technology when what we really want is just stuff that works.",
+    "Author": "Douglas Adams,  The Salmon of Doubt",
+    "Tags": ["humour", "life", "science", "technology "],
+    "Popularity": 0.000702000702000702,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "I suppose it is tempting, if the only tool you have is a hammer, to treat everything as if it were a nail.",
+    "Author": "Abraham Maslow,  Toward a Psychology of Being",
+    "Tags": [
+      "assumptions",
+      "hammer",
+      "instrumentalism",
+      "problem-solving",
+      "psychology",
+      "science",
+      "temptation "
+    ],
+    "Popularity": 0.000697000697000697,
+    "Category": "science"
+  },
+  {
+    "Quote":
+      "I do not feel obliged to believe that the same God who has endowed us with sense, reason, and intellect has intended us to forgo their use.",
+    "Author": "Galileo Galilei,  Letter to the Grand Duchess Christina",
+    "Tags": [
+      "bible",
+      "christianity",
+      "evolution",
+      "god",
+      "reason",
+      "science "
+    ],
+    "Popularity": 0.000675000675000675,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "Student: Dr. Einstein, Aren't these the same questions as last year's [physics] final exam?Dr. Einstein: Yes; But this year the answers are different.",
+    "Author": "Albert Einstein",
+    "Tags": ["humor", "science "],
+    "Popularity": 0.000668000668000668,
+    "Category": "science"
+  },
+  {
+    "Quote":
+      "Wisdom is not a product of schooling but of the lifelong attempt to acquire it.",
+    "Author": "Albert Einstein",
+    "Tags": [
+      "education",
+      "knowledge-wisdom",
+      "learning",
+      "school",
+      "science",
+      "wisdom "
+    ],
+    "Popularity": 0.00065000065000065,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "Even if there is only one possible unified theory, it is just a set of rules and equations. What is it that breathes fire into the equations and makes a universe for them to describe? The usual approach of science of constructing a mathematical model cannot answer the questions of why there should be a universe for the model to describe. Why does the universe go to all the bother of existing?",
+    "Author": "Stephen Hawking,  A Brief History of Time",
+    "Tags": ["philosophy", "science", "search-for-meaning "],
+    "Popularity": 0.000629000629000629,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "I like the scientific spirit—the holding off, the being sure but not too sure, the willingness to surrender ideas when the evidence is against them: this is ultimately fine—it always keeps the way beyond open—always gives life, thought, affection, the whole man, a chance to try over again after a mistake—after a wrong guess.",
+    "Author": "Walt Whitman,  Walt Whitman's Camden Conversations",
+    "Tags": [
+      "affection",
+      "certainty",
+      "doubt",
+      "evidence",
+      "guess",
+      "humble",
+      "ideas",
+      "life",
+      "mistake",
+      "science",
+      "scientific",
+      "skepticism",
+      "surrender",
+      "thought "
+    ],
+    "Popularity": 0.000625000625000625,
+    "Category": "science"
+  },
+ {
+    "Quote": "Life would be tragic if it weren't funny.",
+    "Author": "Stephen Hawking",
+    "Tags": ["humour", "science", "wisdom "],
+    "Popularity": 0.000604000604000604,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "The scientist is not a person who gives the right answers, he's one who asks the right questions.",
+    "Author": "Claude Lévi-Strauss",
+    "Tags": ["questions", "science "],
+    "Popularity": 0.000598000598000598,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "Science is interesting, and if you don't agree you can fuck off.Note: Dawkins was quoting a former editor of New Scientist Magazine, who is as yet unidentified (possibly Jeremy Webb)",
+    "Author": "Richard Dawkins",
+    "Tags": ["science "],
+    "Popularity": 0.000553000553000553,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "If there is any religion that could respond to the needs of modern science, it would be Buddhism.",
+    "Author": "Albert Einstein",
+    "Tags": [
+      "attributed",
+      "attributed-to-einstein-no-source",
+      "buddhism",
+      "religion",
+      "science",
+      "unsourced "
+    ],
+    "Popularity": 0.000549000549000549,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won't come in.",
+    "Author": "Isaac Asimov",
+    "Tags": [
+      "assumptions",
+      "close-mindedness",
+      "intelligence",
+      "isaac-asimov",
+      "knowledge",
+      "open-mind",
+      "open-mindedness",
+      "open-minds",
+      "opinions",
+      "receptivity",
+      "science",
+      "science-of-mind "
+    ],
+    "Popularity": 0.000542000542000542,
+    "Category": "science"
+  },
+  {
+    "Quote":
+      "We can judge our progress by the courage of our questions and the depth of our answers, our willingness to embrace what is true rather than what feels good.",
+    "Author": "Carl Sagan",
+    "Tags": ["atheism", "science "],
+    "Popularity": 0.000528000528000528,
+    "Category": "science"
+  },
+{
+    "Quote":
+      "Our civil rights have no dependence on our religious opinions any more than our opinions in physics or geometry...",
+    "Author":
+      "Thomas Jefferson,  The Statute Of Virginia For Religious Freedom",
+    "Tags": [
+      "civil-rights",
+      "geometry",
+      "opinions",
+      "physics",
+      "science "
+    ],
+    "Popularity": 0.000518000518000518,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "The opposite of a correct statement is a false statement. But the opposite of a profound truth may well be another profound truth.",
+    "Author": "Niels Bohr",
+    "Tags": ["paradoxes", "science", "truth "],
+    "Popularity": 0.000517000517000517,
+    "Category": "science"
+  },
+ {
+    "Quote":
+      "Scientists have calculated that the chances of something so patently absurd actually existing are millions to one.But magicians have calculated that million-to-one chances crop up nine times out of ten.",
+    "Author": "Terry Pratchett,  Mort",
+    "Tags": ["luck", "magic", "science "],
+    "Popularity": 0.000516000516000516,
+    "Category": "science"
+  }
+]
